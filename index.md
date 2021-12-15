@@ -20,6 +20,8 @@ First of all, experts claim that those deaths can't be explained by a single cau
 
 We investigate here two widely agreed upon causes of CCD: pests and insecticides.
 
+<img src="img/varroa_annotated.png">
+
 One of those pests -- the (charmingly named) **Varroa destructor** -- is a parasite smaller than the bee that attaches itself on the bee's body. It spreads throughout the colonies and leads to infections, killing the bees. Hence, we also isolate the influence of the Varroa infestation on the death rate of colonies.
 
 <figure class="sidenote">
