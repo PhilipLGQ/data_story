@@ -1,7 +1,7 @@
 ---
 layout: page
 title: There is No Plan Bee Without Them Yes
-bigimg: img/header2.png
+bigimg: img/head2.png
 ---
 ## Bees are dying
 #### What's up with that?
