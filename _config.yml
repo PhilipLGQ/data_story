@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: No Plan Bee
+title: ADA
 
 # Short description of your site
-description: AdA 2019
+description: Evolution of Cryptocurrencies Topics and Sentimental Influence on Bitcoin Price
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,15 +20,14 @@ description: AdA 2019
 
 # List of links in the navigation bar
 navbar-links:
-  Honey Flux Map: "https://indigo-vanguard.github.io/exportations_graph/main/html/honey_graph.html"
+  About Us: "aboutme"
   Resources:
-    - FAO Statistics: "http://www.fao.org/faostat/en/"
-    - USDA Statistics: "https://quickstats.nass.usda.gov/"
-    - BIP: "https://beeinformed.org/"
+    - Bitcoin Price: "https://coinmarketcap.com/currencies/bitcoin/historical-data/"
+    - Group Repo: "https://github.com/Hanyuan-Hu/ADA-HW1"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/honey.jpg"
+avatar: "/img/btc.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -51,8 +50,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
+navbar-img: "/img/header.png"
+footer-img: "/img/footer.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
