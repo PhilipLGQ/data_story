@@ -16,19 +16,11 @@ In this data story, we explore the death of bees, observe their impact on the wo
 
 First of all, experts claim that those deaths can't be explained by a single cause. Are all the experts wrong? Have they overlooked an obvious correlation fully explaining the bees' death? <span class="spoiler">(Spoiler: They haven't)</span>
 
-<div class="withSidenote" markdown="1">
-
 We investigate here two widely agreed upon causes of CCD: pests and insecticides.
 
 <img src="img/varroa_annotated.png">
 
 One of those pests -- the (charmingly named) **Varroa destructor** -- is a parasite smaller than the bee that attaches itself on the bee's body. It spreads throughout the colonies and leads to infections, killing the bees. Hence, we also isolate the influence of the Varroa infestation on the death rate of colonies.
-
-<figure class="sidenote">
-    <img src="img/varroa_annotated.png">
-    <figcaption><em>Figure 1.</em> The Varroa destructor in action.</figcaption>
-</figure>
-</div>
 
 To do this, we gather [Varroa infestation data](https://quickstats.nass.usda.gov/results/23E6C5E2-4F53-39C6-91FA-F9878CB8F444) and [pesticide contamination data](https://quickstats.nass.usda.gov/results/E86E00EE-2910-373B-B378-B0AC78EDC0B3) from the **National Agricultural Statistics Service (USDA)**  which we compare with the colony losses across the US, obtained through the [**Bee Informed Partnership (BIP)**](https://beeinformed.org), a US-wide collaboration of leading research labs and universities in agricultural science.
 
@@ -49,7 +41,6 @@ Clearly, in terms of the average death rate, all states are roughly equal: it's 
 
 We notice something interesting: **California, Texas and North-Dakota experience much more collapsed colonies**. What makes those states so special?
 
-<div class="withSidenote" markdown="1">
 
 The fact is that beekeepers rely less on honey making, and more on **migratory beekeeping**. It represents now up to **50% of their revenue**. They pack their hives, mount them on trucks and scout the US throughout the year to pollinize fields, among which[^6]:
 
@@ -57,11 +48,7 @@ The fact is that beekeepers rely less on honey making, and more on **migratory b
 - **Alfalfa**, **clover** and **sunflowers** in **North Dakota** (June / July)
 - **Pumpkins** in **Texas** (October)
 
-<figure class="sidenote">
-    <img src="img/alfalalafa.jpg">
-    <figcaption><em>Figure 2.</em> For the uninitiated: we bet you didn't know about Alfalfa, because we didn't.</figcaption>
-</figure>
-</div>
+<img src="img/alfalalafa.jpg">
 
 This migratory beekeeping explains the high death-count: the colonies die in _those_ places, because that's where they spend most of their life.
 
@@ -117,15 +104,9 @@ With such a juicy market at hand, are all countries playing fair and square or a
     <figcaption>Some data points are bigger to highlight their behavior: China, India, the USA, France and Switzerland.</figcaption>
 </figure>
 
-<div class="withSidenote" markdown="1">
-
 We see that a few countries, e.g. India, are well under the average production. Indeed, India has its own kind of honeybee (the _Apis Cerana Indica_), and they do not have the same rate of production[^10]. Most other countries, like France, Switzerland or the USA, seem to have a plausible honey production. However, we note that some countries (Ukraine, Latvia, Belarus, Rwanda, etc.) are way off, and show impossible production rates. We notice that three of them were in the USSR and show these counts since their independence in 1991 (they appear in 1992 in the graph). This behavior can be explained by either dubious internal counts or non-official/missing data, especially for African countries[^africa_no_data].
 
-<figure class="sidenote">
-    <img src="img/apiscerana.jpg">
-    <figcaption><em>Figure 3.</em> A less fluffy and smaller version of the European honneybee, the <em>Apis Cerana Indica</em> lives in colonies of a few thousands workers compared to the average fifty thousand for <em>Apis Mellifera</em></figcaption>
-</figure>
-</div>
+<img src="img/apiscerana.jpg">
 
 But we are still missing the elephant in the room. **China shows a strange behavior**. It starts in 1990 by being well into the plausible zone, but then slowly climbs out of it. From 2005 to 2017, the number of **beehives only increased by 10%**, whereas its **honey production jumped by more than 80%**. Something fishy is happening here... Is this _hyper_-productivity phenomenon happening in other countries as well?
 
@@ -135,11 +116,7 @@ But we are still missing the elephant in the room. **China shows a strange behav
 
 Two bright red dots appear since the beginning of the animation, in Canada and Australia. At first, we were wondering if beekeepers were feeding Maple syrup and Vegemite, respectively, to their bees to increase their productivity. It turns out that the wide meadows and longer days allow for more productive foraging and a higher yield[^beekeeping_canada].
 
-<figure class="sidenote">
-    <img src="img/vegemite.jpg">
-    <figcaption><em>Figure 4.</em> Vegemite is an Australian delicacy comparable to our Cenovis. If you haven't had one of them yet, give it a try.</figcaption>
-</figure>
-</div>
+<img src="img/vegemite.jpg">
 
 So let's focus on what is going on in Asia. As we mentioned, their productivity boomed in the recent years to fill in the gap left by other bees around the developed world. But is it really possible to increase the productivity to this extent or did we uncover something? **Honey adulteration** is an old tale finding its root in the 70's. During the 21<sup>st</sup> century, this is has become a main concern as more than a quarter of the world honey is of questionable authenticity, rising up to 50% for Asian honey[^adulterated_honey]. The main practice consists of **cutting honey with cheap high-fructose syrup**. It is a constant struggle for food administrations as it is not only hard but expensive to detect. This lead to recent temporary bans and tariffs from the EU and the USA[^fake_honey]. But Chinese honey smugglers always found ways to flood the market with cheap, adulterated honey **using neighboring countries as proxies**.
 
