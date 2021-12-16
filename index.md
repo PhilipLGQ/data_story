@@ -38,7 +38,7 @@ Now let’s take a look at people’s sentiment towards cryptos. We divide diffe
 We first make a very general analysis over all quotations.
 <style type="text/css">
 .myban{
-    width:800x;
+    width:700x;
     height:400px;
     border:1px solid #ccc;
     
