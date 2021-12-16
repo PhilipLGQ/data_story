@@ -9,7 +9,7 @@ bigimg: img/head2.png
 
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
-<div style="width: 800px; height: 800px;" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
+<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
 
 Cryptocurrency is quite a prevailing topic in the recent 5 years and we can hear not only business people but also many layouts talk about it. But this concept was largely constrained itself only in a small group of computer scientists one decade ago. After it exerted influence on the price of Graphics and underwent huge price fluctuations, people were becoming more and more familiar with this newly developed concept with different understandings and behavior. 
 
