@@ -36,6 +36,25 @@ From the result, we can see that the topic shifts significantly over different y
 Now let’s take a look at people’s sentiment towards cryptos. We divide different periods basically by one year except for the time period around the beginning of 2018. 
 
 We first make a very general analysis over all quotations.
+<style type="text/css">
+.myban{
+    width:1200px;
+    height:400px;
+    border:1px solid #ccc;
+    
+}
+.myban img{
+    width:350px;
+    height:400px;
+    float:left;
+}
+</style>
+
+<div class="myban">
+    <img src="web_img/general_pos.png" />
+    <img src="web_img/general_neg.png" />
+    <img src="web_img/general_neu.png" />
+</div>
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="plot/yearly_loss_of_colonies_percent.html"></iframe>
 
