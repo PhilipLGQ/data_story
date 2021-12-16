@@ -67,6 +67,8 @@ Then we take a closer look at different periods for our purpose to figure out ho
     <img src="web_img/time_positive.png" />
     <img src="web_img/time_negative.png" />
 </div>
+
+
 <div class="myban">
     <img src="web_img/time_neu.png" />
     <img src="web_img/time_comp.png" />
