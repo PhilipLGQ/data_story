@@ -13,7 +13,7 @@ A cryptocurrency, crypto-currency, or crypto is a collection of binary data whic
 
 
 ## Quotations per Year and Topics Shifts 
-#### 
+#### Subtitle
 
 From the quotation dataset, we find the distribution of quotations about crypto currency during different time periods.
 
@@ -28,7 +28,7 @@ Since there are a lot of discussions about the crypto currency during the past f
 <img src="img/varroa_annotated.png">
 
 ## Sentiment Analysis
-#### Death, the American way
+#### Subtitle
 
 We divide different periods basically by one year except for the time period around the beginning of 2018. 
 
