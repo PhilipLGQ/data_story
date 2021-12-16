@@ -4,37 +4,45 @@ title: Cryptocurrencies in Quote
 subtitle: Evolution of Cryptocurrencies Topics and Sentimental Influence on Cryptocurrencies Price
 bigimg: img/head2.png
 ---
-## Bees are dying
-#### What's up with that?
+## History of Cryptocurrency
+#### What is Cryptocurrency?
 
-For 20 years, bees have been dying all over the world at an alarming rate: **half of the colonies do not make it through the year**[^1] [^2]. Entire hives are being deserted by their worker bees, leaving behind a lonely queen and plenty of food. Those same bees are vital to our agriculture and responsible for pollinating a third of our food[^3]. Without them, the human race would last less than 5 years[^4]. This mass extinction is known as **Colony Collapse Disorder (CCD)** and threatens our entire way of life, as well as theirs. Many factors are thought to be responsible for the bees' decline, among which pests, insecticides and other environmental stresses[^5].
+Cryptocurrency is quite a prevailing topic in the recent 5 years and we can hear not only business people but also many layouts talk about it. But this concept was largely constrained itself only in a small group of computer scientists one decade ago. After it exerted influence on the price of Graphics and underwent huge price fluctuations, people were becoming more and more familiar with this newly developed concept with different understandings and behavior. 
 
-In this data story, we explore the death of bees, observe their impact on the world economy and bring to light the dirty tricks of the honey trade.
+A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange. However, the attributes of cryptocurrency are quite ambiguous, especially in the property of decentralization, which means that it’s issued by the central bank. This leads to the fact that the currency has no national force to support it, the price can be more sensitive for many reasons. Recall that in the stock market, sentiment towards a specific stock can be a huge factor of its price, so we wonder whether it applies the same for the cryptocurrency price. Equipped with the quotation dataset, we may be able to have a research into it. But before going into the influence of people’s sentiment, let’s first start with analyzing in what sense people are talking about the crypto currency. 
 
 
-## Can we find a single culprit for this collapse?
-#### (We can't)
+## Quotations per Year and Topics Shifts 
+#### 
 
-First of all, experts claim that those deaths can't be explained by a single cause. Are all the experts wrong? Have they overlooked an obvious correlation fully explaining the bees' death? <span class="spoiler">(Spoiler: They haven't)</span>
-
-We investigate here two widely agreed upon causes of CCD: pests and insecticides.
-
-<img src="img/varroa_annotated.png">
-
-One of those pests -- the (charmingly named) **Varroa destructor** -- is a parasite smaller than the bee that attaches itself on the bee's body. It spreads throughout the colonies and leads to infections, killing the bees. Hence, we also isolate the influence of the Varroa infestation on the death rate of colonies.
-
-To do this, we gather [Varroa infestation data](https://quickstats.nass.usda.gov/results/23E6C5E2-4F53-39C6-91FA-F9878CB8F444) and [pesticide contamination data](https://quickstats.nass.usda.gov/results/E86E00EE-2910-373B-B378-B0AC78EDC0B3) from the **National Agricultural Statistics Service (USDA)**  which we compare with the colony losses across the US, obtained through the [**Bee Informed Partnership (BIP)**](https://beeinformed.org), a US-wide collaboration of leading research labs and universities in agricultural science.
+From the quotation dataset, we find the distribution of quotations about crypto currency during different time periods.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/scatterplot_lack_of_correlation.html"></iframe>
 
-Unfortunately, the lack of correlation shows that the bees' decline does not have a single answer. Even a combination of those factors doesn't suffice at explaining some catastrophical cases of CCD. They are dying regardless of how infected or poisoned by insecticides they are. But what about environmental stresses? Let's observe CCD from a geospatial perspective to explore this last important factor.
+We can observe that people are more likely to discuss it from the end of 2017 to the middle of 2018. Before that time, there were no more than approximately 250 quotations per month, which corresponds to the fact that there were only a small number of people who were familiar with this concept at that time. After the huge breakout around the beginning of 2018, the number of quotations decreased to a stable level around 500 per month. At that time, even layouts were actually very much aware of the concept and although the number of quotations underwent a sharp deacy, it still had much attention. 
 
-## Where are the bees dying? A US Case study
+Notice that there is a huge peak around the beginning of 2018, so we paid special attention to this period by taking it along in the following analysis. 
+
+Since there are a lot of discussions about the crypto currency during the past five years, we are wondering how topics about crypto currency change over time? We summarize the hottest topics over different years. 
+
+<img src="img/varroa_annotated.png">
+
+## Sentiment Analysis
 #### Death, the American way
 
-We investigate the death-rate of colonies across the US, hoping to find clues as to where colonies mostly die. To do this, we use the data from Bee Informed Partnership (BIP) for the years 2010-2016.
+We divide different periods basically by one year except for the time period around the beginning of 2018. 
+
+We first make a very general analysis over all quotations.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="plot/yearly_loss_of_colonies_percent.html"></iframe>
+
+From the general analysis, we find that more people have a positive attitude towards crypto than people who have a negative attitude.   
+
+Then we take a closer look at different periods for our purpose to figure out how different sentiment may have an effect on the bitcoin price. (bitcoin or crypto currency???)
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="plot/yearly_loss_of_colonies_percent.html"></iframe>
+
+From the result, 
 
 Clearly, in terms of the average death rate, all states are roughly equal: it's a nation-wide problem. **Every year, roughly half of the bee population is decimated**, be it in California or Minnesota. But each state doesn't have the same bee population so what about the raw counts?
 
@@ -132,41 +140,3 @@ As greedy industrials with no concerns for the economy keep dumping adulterated 
 </figure>
 
 ## References
-
-[^1]: [Greenpeace, *Bees in Decline*, 2013](http://sos-bees.org/wp-content/uploads/2014/04/BeesInDecline.pdf)
-
-[^2]: [The Balance, _Colony Collapse Disorder and Its Impact on the Economy_, 2019](https://www.thebalance.com/bee-colony-collapse-disorder-facts-and-economic-impact-3305815)
-
-[^3]: [YaleEnvironment360, _Declining Bee Populations Pose a Threat to Global Agriculture_, 2013](https://e360.yale.edu/features/declining_bee_populations_pose_a_threat_to_global_agriculture)
-
-[^4]: [Vice, _What Would Happen if All the Bees Went Extinct?_, 2017](https://www.vice.com/en_us/article/d7ezaq/what-would-happen-if-all-the-bees-died-tomorrow)
-
-[^5]: [Congressional Research Service, _Bee Health: Background and Issues for Congress_, 2015](http://www.fas.org/sgp/crs/misc/R43191.pdf)
-
-[^6]: [Scientific American, _The Mind-Boggling Math of Migratory Beekeeping_, 2013](https://www.scientificamerican.com/article/migratory-beekeeping-mind-boggling-math/)
-
-[^7]: [Vatorex, _Varroa? No problem – Meet the Asian honeybee_, 2019](https://www.vatorex.ch/en/varroa-no-problem-meet-the-asian-honeybee/)
-
-[^almond_almanac]: [Almond Board of California, _Almond Almanac_, 2018](http://www.almonds.com/sites/default/files/Almond_Almanac_2018_F_revised.pdf)
-
-[^9]: [Kim Flottum, _U.S. Honey Industry Report 2017_, 2018](https://www.beeculture.com/u-s-honey-industry-report-2017/)
-
-[^10]: [TNAU Agritech, _Types of Honey Bee_, 2014](http://agritech.tnau.ac.in/farm_enterprises/fe_api_typesofhoneybee.html)
-
-[^lack_bee]: [Los Angeles Time, _For Almond Growers, Honeybee Shortage Is a Hard Nut to Crack_, 2005](https://www.latimes.com/archives/la-xpm-2005-may-07-fi-almonds7-story.html)
-
-[^bee_practice]: [California Almond Board, _Honey Bee best Management Practices_, 2014](http://www.almonds.com/pollination)
-
-[^drought]: [Growing Produce, _Impacts Of Drought On Almond Production_, 2014](https://www.growingproduce.com/fruits/impacts-of-drought-on-almond-production/)
-
-[^beekeeping_canada]: [Apimondia, _beekeeping in Canada_, 2019](https://www.apimondia2019.com/beekeeping-in-canada/)
-
-[^fake_honey]: [Forbes, _Honey Is World's Third Most Faked Food_, 2016](https://www.forbes.com/sites/larryolmsted/2016/07/15/exclusive-book-excerpt-honey-is-worlds-third-most-faked-food/#432d1244f095)
-
-[^adulterated_honey]: [Nature, _Authenticity and geographic origin of global honeys determined using carbon isotope ratios and trace elements_, 2018](https://www.nature.com/articles/s41598-018-32764-w)
-
-[^winnie_pooh]: [CSB News, _Winnie the Pooh censored in China after President Xi Jinping comparisons_, 2017](https://www.cbsnews.com/news/winnie-the-pooh-censored-china-president-xi-jinping-comparisons/)
-
-[^africa_no_data]: [FAO, _Methodology of Crops data_, 2019](http://fenixservices.fao.org/faostat/static/documents/QA/QL_methodology_e.pdf)
-
-[^honeygate]: [Reuters, _U.S. charges five in 'Honeygate' anti-dumping probe_, 2013](https://www.reuters.com/article/usa-china-honey/u-s-charges-five-in-honeygate-anti-dumping-probe-idUSL1N0BKCRX20130220)
