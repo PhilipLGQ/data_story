@@ -9,7 +9,8 @@ bigimg: img/head2.png
 
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
-<div align="center" style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
+<div style="width: 400px; height: 400px; float:left" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
+<div style="float:right">Cryptocurrency is quite a prevailing topic in the recent 5 years</div>
 
 Cryptocurrency is quite a prevailing topic in the recent 5 years and we can hear not only business people but also many layouts talk about it. But this concept was largely constrained itself only in a small group of computer scientists one decade ago. After it exerted influence on the price of Graphics and underwent huge price fluctuations, people were becoming more and more familiar with this newly developed concept with different understandings and behavior. 
 
@@ -58,6 +59,7 @@ We first make a very general analysis over all quotations.
     <img src="web_img/general_pos.png" />
     <img src="web_img/general_neg.png" />
 </div>
+
 <div class="myban">
     <img src="web_img/general_neu.png" />
     <img src="web_img/general_comp.png" />
