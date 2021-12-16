@@ -38,7 +38,7 @@ Now let’s take a look at people’s sentiment towards cryptos. We divide diffe
 We first make a very general analysis over all quotations.
 <style type="text/css">
 .myban{
-    width:1000x;
+    width:800x;
     height:400px;
     border:1px solid #ccc;
     
@@ -53,16 +53,24 @@ We first make a very general analysis over all quotations.
 <div class="myban">
     <img src="web_img/general_pos.png" />
     <img src="web_img/general_neg.png" />
-    <img src="web_img/general_neu.png" />
 </div>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="plot/yearly_loss_of_colonies_percent.html"></iframe>
+<div class="myban">
+    <img src="web_img/general_neu.png" />
+    <img src="web_img/general_comp.png" />
+</div>
 
 From the general analysis, we find that more people have a positive attitude towards crypto than people who have a negative attitude.   
 
-Then we take a closer look at different periods for our purpose to figure out how different sentiment may have an effect on the bitcoin price. (bitcoin or crypto currency???)
+Then we take a closer look at different periods for our purpose to figure out how different sentiment may have an effect on the bitcoin price.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="plot/yearly_loss_of_colonies_percent.html"></iframe>
+<div class="myban">
+    <img src="web_img/time_positive.png" />
+    <img src="web_img/time_negative.png" />
+</div>
+<div class="myban">
+    <img src="web_img/time_neu.png" />
+    <img src="web_img/time_comp.png" />
+</div>
 
 - From compound score stats, we can clearly see that there exists a valley point of the mean value, 50% percentile (median), and 75% percentile during the event period, this reveals that the distribution is less right-skewed, we can confirm this by examining the compound store histogram and the score stats of the event period. The histogram shows that the difference of the left section (generally negative) and the right section (generally positive) is smaller. The score stats also show that the percentage of negative and neutral quotations both reach a summit, whereas the percentage of positive quotations clearly reduces. Besides, we can catch a general sentiment trend from 2015 to 2020 by examining the line graphs: **speakers in QuoteBank are losing their positive comments towards crypto-related topics**.
 
