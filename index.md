@@ -84,6 +84,6 @@ Then we take a closer look at different periods for our purpose to figure out ho
 
 - From neutral score stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (neutral score < 0.4) quotations).
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="150%" height="600" src="plot/occu_compare.html"></iframe>
+<iframe align="middle" frameborder="no" border="0" marginwidth="0" marginheight="0" width="150%" height="600" src="plot/occu_compare.html"></iframe>
 
 ## References
