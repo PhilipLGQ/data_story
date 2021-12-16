@@ -7,6 +7,10 @@ bigimg: img/head2.png
 ## History of Cryptocurrency
 #### What is Cryptocurrency?
 
+
+<script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd" data-wordart-show-attribution></div>
+
 Cryptocurrency is quite a prevailing topic in the recent 5 years and we can hear not only business people but also many layouts talk about it. But this concept was largely constrained itself only in a small group of computer scientists one decade ago. After it exerted influence on the price of Graphics and underwent huge price fluctuations, people were becoming more and more familiar with this newly developed concept with different understandings and behavior. 
 
 A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange. However, the attributes of cryptocurrency are quite ambiguous, especially in the property of decentralization, which means that it’s issued by the central bank. This leads to the fact that the currency has no national force to support it, the price can be more sensitive for many reasons. Recall that in the stock market, sentiment towards a specific stock can be a huge factor of its price, so we wonder whether it applies the same for the cryptocurrency price. Equipped with the quotation dataset, we may be able to have a research into it. But before going into the influence of people’s sentiment, let’s first start with analyzing in what sense people are talking about the crypto currency. 
