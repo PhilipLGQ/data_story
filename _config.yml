@@ -20,7 +20,7 @@ description: Evolution of Cryptocurrencies Topics and Sentimental Influence on B
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Us: "https://xianjiedai.github.io/data_story/aboutme/"
   Resources:
     - Bitcoin Price: "https://coinmarketcap.com/currencies/bitcoin/historical-data/"
     - Group Repo: "https://github.com/Hanyuan-Hu/ADA-HW1"
