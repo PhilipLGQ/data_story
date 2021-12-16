@@ -1,6 +1,7 @@
 ---
 layout: page
-title: There is No Plan Bee Without Them Yes
+title: Cryptocurrencies in Quote
+subtitle: Evolution of Cryptocurrencies Topics and Sentimental Influence on Cryptocurrencies Price
 bigimg: img/head2.png
 ---
 ## Bees are dying
