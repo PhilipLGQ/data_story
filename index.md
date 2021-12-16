@@ -13,7 +13,7 @@ A cryptocurrency, crypto-currency, or crypto is a collection of binary data whic
 
 
 ## Quotations per Year and Topics Shifts 
-#### Subtitle
+#### What topics about Bitcoin are popular in Quotebank, what contents are included in each topic? & How does the trend of topics about Bitcoin change over time?
 
 From the quotation dataset, we find the distribution of quotations about crypto currency during different time periods.
 
@@ -31,7 +31,7 @@ From the result, we can see that the topic shifts significantly over different y
 
 
 ## Sentiment Analysis
-#### Subtitle
+#### What sentiment/attitude does each topic present, how does politician/researcher comment on Bitcoin differently? & Does sentiment/attitude have a correlation with the fluctuation of Bitcoin price generally and for each topic?
 
 Now let’s take a look at people’s sentiment towards cryptos. We divide different periods basically by one year except for the time period around the beginning of 2018. 
 
