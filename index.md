@@ -83,7 +83,7 @@ Then we take a closer look at different periods for our purpose to figure out ho
 - From negative score stats, we can see that the percentage of negative quotations greatly increases in 2016 and then gradually increases to the highest during the event period. Although slightly decreasing later, it still remains at highs. The negative score means 75% percentile follows this trend. An interesting point is that over 50% of quotations have no negative sentiment and the 75% percentile is less than 0.1, this means that the level of negative sentiment is relatively low.
 
 - From neutral score stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (neutral score < 0.4) quotations).
-<div style="text-align:center">
+<div style="text-align:left">
     <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="130%" height="600" src="plot/occu_compare.html"></iframe>
 </div>
 ## References
