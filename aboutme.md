@@ -6,16 +6,16 @@ subtitle: rmrf group
 
 
 ### Hanyuan HU
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Searching & crawling supportive datasets, consistency checking, database problem digging, proposed data story writing, and web developing
 
 ### Guanqun LIU
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Problem formulation, finding algorithms & tools, report writing, proposed LDA model training, proposed data story writing, and sentiment analysis
 
 ### Xianjie DAi
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Searching & crawling supportive datasets, database problem solving, proposed graph plotting, proposed data story writing, and web developing
 
 ### Yixuan XU
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Raising project idea, preliminary data preprocessing and analysis, proposed project coding-up and optimizing, proposed data visusalisation and web developing
