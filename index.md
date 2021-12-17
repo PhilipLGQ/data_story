@@ -10,6 +10,7 @@ bigimg: img/head2.png
 ```diff
 + this will be highlighted in green
 - this will be highlighted in red
+```
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 <div style="width: 500px; height: 500px; float:left" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
