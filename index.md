@@ -188,25 +188,25 @@ We are interested in the analysis within different occupations—different persp
 
 According to the relevant words and the representative quotations spoken by businesspeople and politicians, we have the following findings that are high associated with the detected topics:
 
-**Politacians**
+**Politicians**
 
 ```diff
 Topic 0: Government anouncements on accepting cryptocurrencies for payment has shown its adoption to crypto currencies.
 ```
 
->_"Cryptocurrencies are becoming increasingly accepted as forms of payment for many transactions across the state, including by government entities. the seminole county tax collector announced that the office will accept bitcoin as payment for property taxes, identification cards and license plates"_  _--**Jimmy Patronis, Florida Chief Financial Officer**_
+>_"Cryptocurrencies are becoming increasingly accepted as forms of payment for many transactions across the state, including by government entities. the seminole county tax collector announced that the office will accept bitcoin as payment for property taxes, identification cards and license plates"_  _**--Jimmy Patronis, Florida Chief Financial Officer**_
 
 ```diff
 Topic 1: Some countries are funding digital currency researches and making investments on crypto currencies.
 ```
 
->_"The £ 10m in funding for digital currency research demonstrates that this government is serious about making the uk an attractive destination for cryptocurrency entrepreneurs and investment. no other government has made such a positive overture to bitcoin"_  _--**Tom Robinson, a board member of the UK Digital Currency Association**_
+>_"The £ 10m in funding for digital currency research demonstrates that this government is serious about making the uk an attractive destination for cryptocurrency entrepreneurs and investment. no other government has made such a positive overture to bitcoin"_  _**--Tom Robinson, a board member of the UK Digital Currency Association**_
 
 ```diff
 Topic 2: Although politicians are concerned about the risk of cryptocurrencies as a "bubble", they attaches great importance to the underneath blockchain technology.
 ```
 
->_"Blockchain technology could change our world more than people imagine. bitcoin, however, could be a bubble"_  _--**Jack Ma, leader of Multinational technology conglomerate Alibaba Group**
+>_"Blockchain technology could change our world more than people imagine. bitcoin, however, could be a bubble"_  _**--Jack Ma, leader of Multinational technology conglomerate Alibaba Group**_
 
 
 **Businesspeople**
