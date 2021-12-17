@@ -155,6 +155,18 @@ Then let's take a closer look at different periods and try to figure out whether
     <img src="web_img/time_comp.png" />
 </div>
 
+To save space, we use capital letter "A" to "G" to represent different periods.
+
+| Period | Letter |
+| :------: |:---: | 
+| 01/2015 - 12/2015 | A | 
+| 01/2016 - 12/2016 | B | 
+| 01/2017 - 09/2017 | C | 
+| 10/2017 - 03/2018 | D | 
+| 04/2018 - 12/2018 | E | 
+| 01/2019 - 12/2019 | F | 
+| 01/2020 - 03/2020 | G | 
+
 - From **compound score** stats, we can see that there exists a valley point of the mean value, _50%_ percentile (median), and _75%_ percentile during the event period, this reveals that the distribution is less right-skewed, we can confirm this by examining the compound store histogram and the score stats of the event period. The histogram shows that the difference between the left section (generally negative) and the right section (generally positive) is smaller. The score stats also show that the percentage of negative and neutral quotations both reach a summit, whereas the percentage of positive quotations clearly reduces. Besides, we can catch a general sentiment trend from 2015 to 2020 by examining the line graphs: **speakers in QuoteBank are losing their positive comments towards crypto-related topics**.
 
 - From **positive score** stats, we can see that the percentage of positive quotations is at the highest in 2015, then steadily declines and reaches the lowest point in the event period, although the percentage bounces in 2018 & 2019, it still drops in 2020's quotations. The positive score mean, median, and _75%_ percentile are consistent with this trend, except for the mean reaching the valley point in 2020. However, we notice that the most positive quotation happens to occur in the event period. In the histogram, we also notice there exist more very positive quotations (_positive score > 0.6_) than any other period both numerically and proportionally, this implies a polarized sentiment trend during this period.
@@ -178,7 +190,7 @@ margin: auto;
 Occupation | Number of quotation
  :-: | :-: 
 Businessperson | 2096 
-Politacian | 1526 
+Politician | 1526 
 Journalist | 1171 
 Researcher | 1058 
 
