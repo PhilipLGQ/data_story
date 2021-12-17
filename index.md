@@ -9,24 +9,24 @@ bigimg: img/head2.png
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 <div style="width: 500px; height: 500px; float:left" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
-**Cryptocurrency** is such a prevailing topic that in the recent five years, not only business people but also many people from different fields were talking about it. However, the concept of cryptocurrency was largely constrained itself to a small group of computer scientists about a decade ago. After a huge wave of fluctuation on both bitcoin price and graphic cards, people became more and more familiar with it and acquired different understandings about this newly developed, mysterious and state-of -art concept.
+**Cryptocurrency** is such a prevailing topic that in the recent five years, not only business people but also many people from different fields were talking about it. However, the concept of cryptocurrency was largely constrained itself to a small group of computer scientists about a decade ago. After a huge wave of fluctuation on both bitcoin prices and graphic cards, people became more and more familiar with it and acquired different understandings about this newly developed, mysterious and state-of-art concept.
 
-A **cryptocurrency** (crypto-currency, or crypto) is a collection of binary data which is designed to work as a medium of exchange. However, the attributes of cryptocurrency are quite ambiguous, especially the property of **decentralization**, which means that it’s not issued by any central bank. This leads to the fact that the currency has **no national force** to support it, and the price can be sensitive to many factors. Recall that in the stock market, sentiment towards a specific stock can be a huge factor to influence the price, so we wonder whether sentiment applies the same effect on the cryptocurrency price. With the help of quotation dataset from [**Quotebank**](https://quotebank.dlab.tools/), we could explore the possibility of this idea. Before digging deeper, let’s first take a look at what people are talking about the cryptocurrency! 
+A **cryptocurrency** (crypto-currency, or crypto) is a collection of binary data which is designed to work as a medium of exchange. However, the attributes of cryptocurrency are quite ambiguous, especially the property of **decentralization**, which means that it’s not issued by any central bank. This leads to the fact that the currency has **no national force** to support it, and the price can be sensitive to many factors. Recall that in the stock market, sentiment towards a specific stock can be a huge factor to influence the price, so we wonder whether sentiment applies the same effect on the cryptocurrency price. With the help of the quotation dataset from [**Quotebank**](https://quotebank.dlab.tools/), we could explore the possibility of this idea. Before digging deeper, let’s first take a look at what people are talking about the cryptocurrency! 
 
 
 
 ## Quotations per Year and Topics Shifts 
 #### What topics about Bitcoin are popular in Quotebank? What contents are included in each topic? How does the trend of topics about Bitcoin change over time?
 
-From our quotation dataset, we find the distribution of quotations about cryptocurrency on different time periods.
+From our quotation dataset, we find the distribution of quotations about cryptocurrency in different time periods.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/quote_dist.html"></iframe>
 
-We can observe that people had a huge crush on cryptocurrency during the period between **the end of 2017 and the middle of 2018**. Before this period, the number of quotations was quite poor, no more than approximately 250 quotations per month, which is exactly the fact we are talking about in the [History of Cryptocurrency](#history-of-cryptocurrency). There were only a small number of people who were familiar with this concept at that time. After the huge breakout at the beginning of 2018, the number of quotations decreased to a stable level, around 500 per month. At that time, even layouts were actually very much aware of the concept, although the number of quotations underwent a sharp deacy, it still had much attention. 
+We can observe that people had a huge crush on cryptocurrency during the period between **the end of 2017 and the middle of 2018**. Before this period, the number of quotations was quite poor, no more than approximately 250 quotations per month, which is exactly the fact we are talking about in the [History of Cryptocurrency](#history-of-cryptocurrency). There were only a small number of people who were familiar with this concept at that time. After the huge breakout at the beginning of 2018, the number of quotations decreased to a stable level, around 500 per month. At that time, even layouts were very much aware of the concept, although the number of quotations underwent a sharp decay, it still had much attention. 
 
 Notice that there is a huge peak around the end of 2017 and the beginning of 2018. We paid additional attention to this period by analyzing it separately in the following analysis. 
 
-Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. We noticed that there are two topics, **Bitcoin's price** and **blockchain technology**, which are the most popular among all ohter topics in every period. In order to find more about the popular topics, we select several **other popular topics** in every period except them.
+Since there are lots of discussions about cryptocurrency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. We noticed that there are two topics, **Bitcoin's price** and **blockchain technology**, which are the most popular among all other topics in every period. In order to find more about the popular topics, we select several **other popular topics** in every period except them.
 
 **Topic of 2015**
 >Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
@@ -81,7 +81,7 @@ From the result, we can see that the topic shifts over different years and we ca
 
 We divide periods annually except for the time period around the beginning of 2018. It was so popular at that time!
 
-Let's take a first bite of people's general attitudes.
+Let's first take a bite of people's general attitudes.
 <style type="text/css">
 .myban{
     width:700x;
@@ -106,7 +106,7 @@ Let's take a first bite of people's general attitudes.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_dist.html"></iframe>
 
-Playing around the above plots, we find that people may have a more **“positive”** attitude towards cryptocurrency than **“negative”** attitude.   
+Playing around the above plots, we find that people may have a more **“positive”** attitude towards cryptocurrency than a **“negative”** attitude.   
 
 Then let's take a closer look at different periods and try to figure out whether different sentiments have an effect on the bitcoin price.
 
@@ -122,13 +122,13 @@ Then let's take a closer look at different periods and try to figure out whether
     <img src="web_img/time_comp.png" />
 </div>
 
-- From **compound score** stats, we can clearly see that there exists a valley point of the mean value, _50%_ percentile (median), and _75%_ percentile during the event period, this reveals that the distribution is less right-skewed, we can confirm this by examining the compound store histogram and the score stats of the event period. The histogram shows that the difference of the left section (generally negative) and the right section (generally positive) is smaller. The score stats also show that the percentage of negative and neutral quotations both reach a summit, whereas the percentage of positive quotations clearly reduces. Besides, we can catch a general sentiment trend from 2015 to 2020 by examining the line graphs: **speakers in QuoteBank are losing their positive comments towards crypto-related topics**.
+- From **compound score** stats, we can see that there exists a valley point of the mean value, _50%_ percentile (median), and _75%_ percentile during the event period, this reveals that the distribution is less right-skewed, we can confirm this by examining the compound store histogram and the score stats of the event period. The histogram shows that the difference between the left section (generally negative) and the right section (generally positive) is smaller. The score stats also show that the percentage of negative and neutral quotations both reach a summit, whereas the percentage of positive quotations clearly reduces. Besides, we can catch a general sentiment trend from 2015 to 2020 by examining the line graphs: **speakers in QuoteBank are losing their positive comments towards crypto-related topics**.
 
-- From **positive score** stats, we can see that the percentage of positive quotations is at the highest in 2015, then steadily declines and reaches a lowest point in the event period, although the percentage bounces in 2018 & 2019, it still drops in 2020's quotations. The positive score mean, median, and _75%_ percentile are consistent with this trend, except for the mean reaching the valley point in 2020. However, we notice that the most positive quotation happens to occur in the event period. In the histogram we also notice there exists more very positive quotations (_positive score > 0.6_) than any other period both numerically and proportionally, this hints a polarized sentiment trend during this period.
+- From **positive score** stats, we can see that the percentage of positive quotations is at the highest in 2015, then steadily declines and reaches the lowest point in the event period, although the percentage bounces in 2018 & 2019, it still drops in 2020's quotations. The positive score mean, median, and _75%_ percentile are consistent with this trend, except for the mean reaching the valley point in 2020. However, we notice that the most positive quotation happens to occur in the event period. In the histogram, we also notice there exist more very positive quotations (_positive score > 0.6_) than any other period both numerically and proportionally, this implies a polarized sentiment trend during this period.
 
 - From **negative score** stats, we can see that the percentage of negative quotations greatly increases in 2016 and then gradually increases to the highest during the event period. Although slightly decreasing later, it still remains at highs. The negative score means _75%_ percentile follows this trend. An interesting point is that over _50%_ of quotations have no negative sentiment and the _75%_ percentile is less than _0.1_, this means that the level of negative sentiment is relatively low.
 
-- From **neutral score** stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (_neutral score < 0.4_) quotations).
+- From **neutral score** stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and an increasing proportion of very biased (_neutral score < 0.4_) quotations).
 
 
 ## Speaker Portrait
@@ -155,9 +155,9 @@ We are interested in the analysis within different occupations—different persp
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/occu_compare.html"></iframe>
 
-**Compound scores** of businessmen and politicians tells us that the general attitude towards crypto is **decreasing**. 2015 is the most **optimistic** year for businessmen, probably because there was potential commercial interest at the very beginning of crypto. Afterwards, between 2016-2018, businessmen started to **doubt** about the advantages of the crypto. But the sentiment changes are rather flat during the huge wave of the crypto price fluctuation. However, in 2019, businessmen were again **positive** about crypto with a large increase in the compound score, but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen **lost their interest** again and become more neutral.
+**Compound scores** of businessmen and politicians tell us that the general attitude towards crypto is **decreasing**. 2015 is the most **optimistic** year for businessmen, probably because there was potential commercial interest at the very beginning of crypto. Afterward, between 2016-2018, businessmen started to **doubt** the advantages of cryptocurrency. But the sentiment changes are rather flat during the huge wave of the crypto price fluctuation. However, in 2019, businessmen were again **positive** about crypto with a large increase in the compound score but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen **lost their interest** again and become more neutral.
 
-As for the politician, the general attitude is more neutral and flat compared with businessmen, partialy because the crypto is not issued by any national institution.
+As for the politician, the general attitude is more neutral and flat compared with businessmen, partially because the crypto is not issued by any national institution.
 
 
 ## Combined analysis of quotation numbers with Bitcoin Price
@@ -166,11 +166,11 @@ The Bitcoin price can be extracted from [CoinMarketCap](https://coinmarketcap.co
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/price_quote.html"></iframe>
 
-This figure describes the quotation numbers and the fluctuation of Bitcoin price simultaneously. Because there are some dates that are missing the quotations of Bitcoin, we take a period of 14 days as an analysis basis (rolling 14 days) to see the correlation. Y axis on the left (rolling_14_close) is the Bitcoin price at the end of the 14 days period.
+This figure describes the quotation numbers and the fluctuation of Bitcoin prices simultaneously. Because there are some dates that are missing the quotations of Bitcoin, we take a period of 14 days as an analysis basis (rolling 14 days) to see the correlation. Y-axis on the left (rolling_14_close) is the Bitcoin price at the end of the 14 days period.
 
 From the above line plots, we would initially speculate that the number of quotations may correlate with the fluctuation of Bitcoin price in a general sense, especially in the period around 2017 and 2018. Around the beginning of 2018, the quotation underwent a vast boost and this trend matches perfectly well with the bitcoin price peak around that time.
 
-If we run a **Pearson test**, we have a p value (_1.70e-23_) which is far smaller than 0.05, meaning the that Bitcoin price and 14-day rolling mean of number of quotations do **positively correlate** with each other, with a small correlation _**r = 0.24**_. Based on this fact, we will find out the period which gives the largest correlation _abs(r)_ with _**p << 0.05**_.
+If we run a **Pearson test**, we have a p-value (_1.70e-23_) which is far smaller than _0.05_, meaning that the Bitcoin price and 14-day rolling mean of the number of quotations do **positively correlate** with each other, with a small correlation _**r = 0.24**_. Based on this fact, we will find out the period which gives the largest correlation _abs(r)_ with _**p << 0.05**_.
 
 We further look into the correlation over different time periods.
 
@@ -185,19 +185,19 @@ We further look into the correlation over different time periods.
 | 01/2020 - 03/2020 | p > 0.05 | not correlated |
 
 We summarize in the below:
-- The **general** Pearson test on Bitcoin price and 14-day rolling mean of number of quotations give **a small but positive correlation** between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean of number of quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015 - 2016, 2019 - 2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and number of  quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
+- The **general** Pearson test on Bitcoin price and 14-day rolling mean of the number of quotations give **a small but positive correlation** between these two indicators. This means that from a larger scale over the periods when Bitcoin price rises, the 14-day rolling mean of the number of quotations has a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest in crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015 - 2016, 2019 - 2020. But if we take a closer look at the curve trend, in 2015-2016 both Bitcoin price and the number of quotations remains at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
 
-- Separated analysis on Jan. 2017 - Sep. 2017 and Apr. 2018 - Dec. 2018 gives us **a negative correlation** result which counters our expectation. By checking the line plots, there exists **a possible delay effect** between the indicators: if we right shift the rolling mean curve, then we could possibly get a more positive correlated result. This delay effect may reflect speakers' comments and attitudes towards the crypto market, and they later bring impact to the Bitcoin market since named speakers are mostly influential.
+- Separated analysis on Jan. 2017 - Sep. 2017 and Apr. 2018 - Dec. 2018 gives us **a negative correlation** result which counters our expectation. By checking the line plots, there exists **a possible delay effect** between the indicators: if we right shift the rolling mean curve, then we could possibly get a more positive correlated result. This delay effect may reflect speakers' comments and attitudes towards the crypto market, and they later bring impact to the Bitcoin market since named speakers are most influential.
 
-- The Bitcoin price **increases rapidly** in 2017, and suddenly **drops** in 2018, and the number of quotations fluctuate correspondingly. Pearson tests in 2017 - 2018 and the event period confirms this trend. 
+- The Bitcoin price **increases rapidly** in 2017, and suddenly **drops** in 2018, and the number of quotations fluctuates correspondingly. Pearson tests in 2017 - 2018 and the event period confirms this trend. 
 
 ## Bitcoin price and sentiment correlation
 
-Finally, we are curious about whether there is correlation between Bitcoin price and people’s sentiment towards it. To do this, we ran a sentiment analysis on all the quotations over different time periods and analyzed the correlation with positive, negative, neutral and compound scores.
+Finally, we are curious about whether there is a correlation between Bitcoin price and people’s sentiment towards it. To do this, we ran a sentiment analysis on all the quotations over different time periods and analyzed the correlation with positive, negative, neutral, and compound scores.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/price_compound.html"></iframe>
 
-First, we present different scores and bitcoin prices over time. The y axis on the left (Close) is the bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general person test shows us the general sentiment actually has a **weak positive correlation** (_**r=0.1033039125275**, **p=2.102025314648e-05**_) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
+First, we present different scores and bitcoin prices over time. The y-axis on the left (Close) is the Bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general Pearson test shows us the general sentiment actually has a **weak positive correlation** (_**r=0.1033039125275**, **p=2.102025314648e-05**_) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
 
 | Period | P Value | r |
 | :------: |:---: | :---: |
@@ -210,17 +210,17 @@ First, we present different scores and bitcoin prices over time. The y axis on t
 | 01/2020 - 03/2020 | p > 0.05 | not correlated |
 
 We make a summarization in the below:
-- The result of **general analysis** on compound, positive, and negative sentiment scores reveals that crypto-related quotations' sentiment does **have correlation** with the Bitcoin price. However, the Pearson _r_ for all four sentiment scores are relatively small, which means the **correlations are not strong**. 
+- The result of **general analysis** on compound, positive, and negative sentiment scores reveals that crypto-related quotations' sentiment does **have a correlation** with the Bitcoin price. However, the Pearson _r_ for all four sentiment scores is relatively small, which means the **correlations are not strong**. 
 
-- Separation analysis on the **compound score** and the **positive score** shows similar **positive correlation** from 2016 to 2019, whereas the **negative score** shows **negative correlation** only in 2016, 2019, and 2020. This correlation pattern may suggest that a positive score determines the compound score correlation more than the negative score.
+- Separation analysis on the **compound score** and the **positive score** shows a similar **positive correlation** from 2016 to 2019, whereas the **negative score** shows a **negative correlation** only in 2016, 2019, and 2020. This correlation pattern may suggest that a positive score determines the compound score correlation more than the negative score.
 
-- Separation analysis on the **neutral score** shows that in each separation during 2017-2018, neutral score is **negatively correlated** to Bitcoin price. Combining the fact that quotations are heavily distributed in these separations, this suggests that polarized crypto quotations may correlate to a decrease in Bitcoin price, which means the Bitcoin price would affect speakers' neutrality.
+- Separation analysis on the **neutral score** shows that in each separation during 2017-2018, the neutral score is **negatively correlated** to Bitcoin price. Combining the fact that quotations are heavily distributed in these separations, this suggests that polarized crypto quotations may correlate to a decrease in Bitcoin price, which means the Bitcoin price would affect speakers' neutrality.
 
 ## Conclusions
 ### The evolution story of crypto, Bitcoin in the last 5 years
 
-Given the analysis above, we may reach the answer of the puzzle stated at the very beginning of our data analysis. In general, **there seems to be a weak correlation between the bitcoin price and people’s sentiment towards it**. If we take the compound score over different time periods seriously, we may easily reach the conclusion that Bitcoin prices are actually correlated with people’s sentiment, which also makes sense because people will complain or praise Bitcoin if the price is fluctuating and indeed people’s attitude will influence the prices in turn. 
+Given the analysis above, we may reach the answer to the puzzle stated at the very beginning of our data analysis. In general, **there seems to be a weak correlation between the bitcoin price and people’s sentiment towards it**. If we take the compound score over different time periods seriously, we may easily reach the conclusion that Bitcoin prices are actually correlated with people’s sentiment, which also makes sense because people will complain or praise Bitcoin if the price is fluctuating and indeed people’s attitude will influence the prices in turn. 
 
-There are many reasons that can count for the weak correlation. One of the biggest factors is that there are many **unobserved covariates** that will affect speakers’ attitude and the bitcoin price simultaneously. Given the limitation of quotebank dataset, we cannot avoid such problems. One way to deal with it is to introduce other datasets and complex economic theory, which is too much for our analysis. Also, the way we process the Bitcoin price and the division of time period will also have influence on the final analysis on the sentiment correlation result. 
+There are many reasons that can count for the weak correlation. One of the biggest factors is that there are many **unobserved covariates** that will affect speakers’ attitudes and the Bitcoin price simultaneously. Given the limitation of Quotebank dataset, we cannot avoid such problems. One way to deal with it is to introduce other datasets and complex economic theory, which is too much for our analysis. Also, the way we process the Bitcoin price and the division of time period will also have an influence on the final analysis of the sentiment correlation result. 
 
 ## References
