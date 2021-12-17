@@ -106,7 +106,7 @@ Let's take a first bite of people's general attitudes.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_dist.html"></iframe>
 
-Playing around the above plots, we find that people may have a more “positive” attitude towards cryptocurrency than “negative” attitude.   
+Playing around the above plots, we find that people may have a more **“positive”** attitude towards cryptocurrency than **“negative”** attitude.   
 
 Then let's take a closer look at different periods and try to figure out whether different sentiments have an effect on the bitcoin price.
 
@@ -122,23 +122,19 @@ Then let's take a closer look at different periods and try to figure out whether
     <img src="web_img/time_comp.png" />
 </div>
 
-- From compound score stats, we can clearly see that there exists a valley point of the mean value, 50% percentile (median), and 75% percentile during the event period, this reveals that the distribution is less right-skewed, we can confirm this by examining the compound store histogram and the score stats of the event period. The histogram shows that the difference of the left section (generally negative) and the right section (generally positive) is smaller. The score stats also show that the percentage of negative and neutral quotations both reach a summit, whereas the percentage of positive quotations clearly reduces. Besides, we can catch a general sentiment trend from 2015 to 2020 by examining the line graphs: **speakers in QuoteBank are losing their positive comments towards crypto-related topics**.
+- From **compound score** stats, we can clearly see that there exists a valley point of the mean value, 50% percentile (median), and 75% percentile during the event period, this reveals that the distribution is less right-skewed, we can confirm this by examining the compound store histogram and the score stats of the event period. The histogram shows that the difference of the left section (generally negative) and the right section (generally positive) is smaller. The score stats also show that the percentage of negative and neutral quotations both reach a summit, whereas the percentage of positive quotations clearly reduces. Besides, we can catch a general sentiment trend from 2015 to 2020 by examining the line graphs: **speakers in QuoteBank are losing their positive comments towards crypto-related topics**.
 
-- From positive score stats, we can see that the percentage of positive quotations is at the highest in 2015, then steadily declines and reaches a lowest point in the event period, although the percentage bounces in 2018 & 2019, it still drops in 2020's quotations. The positive score mean, median, and 75% percentile are consistent with this trend, except for the mean reaching the valley point in 2020. However, we notice that the most positive quotation happens to occur in the event period. In the histogram we also notice there exists more very positive quotations (positive score > 0.6) than any other period both numerically and proportionally, this hints a polarized sentiment trend during this period.
+- From **positive score** stats, we can see that the percentage of positive quotations is at the highest in 2015, then steadily declines and reaches a lowest point in the event period, although the percentage bounces in 2018 & 2019, it still drops in 2020's quotations. The positive score mean, median, and 75% percentile are consistent with this trend, except for the mean reaching the valley point in 2020. However, we notice that the most positive quotation happens to occur in the event period. In the histogram we also notice there exists more very positive quotations (positive score > 0.6) than any other period both numerically and proportionally, this hints a polarized sentiment trend during this period.
 
-- From negative score stats, we can see that the percentage of negative quotations greatly increases in 2016 and then gradually increases to the highest during the event period. Although slightly decreasing later, it still remains at highs. The negative score means 75% percentile follows this trend. An interesting point is that over 50% of quotations have no negative sentiment and the 75% percentile is less than 0.1, this means that the level of negative sentiment is relatively low.
+- From **negative score** stats, we can see that the percentage of negative quotations greatly increases in 2016 and then gradually increases to the highest during the event period. Although slightly decreasing later, it still remains at highs. The negative score means 75% percentile follows this trend. An interesting point is that over 50% of quotations have no negative sentiment and the 75% percentile is less than 0.1, this means that the level of negative sentiment is relatively low.
 
-- From neutral score stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (neutral score < 0.4) quotations).
-
-Composite scores of businessmen and politicians tells us that the general attitude towards crypto is decreasing. 2015 is the most optimistic year for businessmen, probably because there was potential commercial interest at the very beginning of crypto. Afterwards, between 2016-2018, businessmen started to doubt about the advantages of the crypto. But the sentiment changes are rather flat during the huge wave of the crypto price fluctuation. However, in 2019, businessmen were again positive about crypto with a large increase in the compound score, but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen lost their interest again and become more neutral.
-
-As for the politician, the general attitude is more neutral and flat compared with businessmen, partialy because the crypto is not issued by any national institution.
+- From **neutral score** stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (neutral score < 0.4) quotations).
 
 
 ## Speaker Portrait
 #### Who talk about cryptocurrency the most? What are their attitudes towards it?
 
-We divide people into different occupations and make an analysis based on this division. There are people with more than 300 hundred occupations discussing crypto. We list the top four occupations and plot the distributions in the order of total quotation numbers.
+We divide people into different occupations and make an analysis based on this division. There are people with more than 300 hundred occupations discussing crypto. We list the top **4** occupations and plot the distributions in the order of total quotation numbers.
 
 <style>
 table {
@@ -153,12 +149,16 @@ Politacian | 1526
 Journalist | 1171 
 Researcher | 1058 
 
-We can observe that businesspeople have the most quotation number among all other occupations. Politicians come second with 1439 quotations. Journalists and researchers are the third and fourth most frequent speakers about crypto with 1171 and 1058 quotations within the last five years.
+We can observe that **businesspeople** have the most quotation number among all other occupations. **Politicians** come second with 1439 quotations. **Journalists** and **researchers** are the third and fourth most frequent speakers about crypto with 1171 and 1058 quotations within the last five years.
 
-
-We are interested in the analysis within different occupations—how do perspectives of people differ with specialized skills. We focus on the top two occupations, business people and politicians. 
+We are interested in the analysis within different occupations—different perspectives of people differ with specialized skills. We focus on the top two occupations, business people and politicians. 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/occu_compare.html"></iframe>
+
+**Composite scores** of businessmen and politicians tells us that the general attitude towards crypto is **decreasing**. 2015 is the most **optimistic** year for businessmen, probably because there was potential commercial interest at the very beginning of crypto. Afterwards, between 2016-2018, businessmen started to **doubt** about the advantages of the crypto. But the sentiment changes are rather flat during the huge wave of the crypto price fluctuation. However, in 2019, businessmen were again **positive** about crypto with a large increase in the compound score, but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen **lost their interest** again and become more neutral.
+
+As for the politician, the general attitude is more neutral and flat compared with businessmen, partialy because the crypto is not issued by any national institution.
+
 
 ## Combined analysis of quotation numbers with Bitcoin Price
 
@@ -185,7 +185,7 @@ We further look into the correlation over different time periods.
 | 01/2020 - 03/2020 | p > 0.05 | not correlated |
 
 We summarize in the below:
-- The general pearson test on Bitcoin price and 14-day rolling mean of number of quotations give a small but positive correlation between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean of number of quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015-2016, 2019-2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and # quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
+- The general Pearson test on Bitcoin price and 14-day rolling mean of number of quotations give a small but positive correlation between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean of number of quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015-2016, 2019-2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and # quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
 
 - Separated analysis on 2017.01-2017.09 and 2018.04-2018.12 gives us a negative correlation result which counters our expectation. By checking the line plots, there exists a possible delay effect between the indicators: if we right shift the rolling mean curve, then we could possibly get a more positive correlated result. This delay effect may reflect speakers' comments and attitudes towards the crypto market, and they later bring impact to the Bitcoin market since named speakers are mostly influential.
 
