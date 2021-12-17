@@ -30,7 +30,7 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 
 **Topic of 2015**
 
-```diff
+```markdown
 Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 ```
 
