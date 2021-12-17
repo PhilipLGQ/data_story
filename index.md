@@ -16,7 +16,7 @@ A **cryptocurrency** (crypto-currency, or crypto) is a collection of binary data
 
 
 ## Quotations per Year and Topics Shifts 
-#### What topics about Bitcoin are popular in Quotebank, what contents are included in each topic? & How does the trend of topics about Bitcoin change over time?
+#### What topics about Bitcoin are popular in Quotebank? What contents are included in each topic? How does the trend of topics about Bitcoin change over time?
 
 From our quotation dataset, we find the distribution of quotations about cryptocurrency on different time periods.
 
@@ -122,7 +122,7 @@ This figure describes the quotation numbers and the fluctuation of Bitcoin price
 
 From the above line plots, we would initially speculate that the number of quotations may correlate with the fluctuation of Bitcoin price in a general sense but especially in the period around 2017 and 2018. Around the beginning of 2018, the quotation underwent a vast boost and this trend matches perfectly well with the bitcoin price peak around that time.
 
-If we run a Pearson test, we have a p value (1.70e-23) which is far smaller than 0.05, meaning the that Bitcoin price and 14-day rolling mean of # quotations do positively correlate with each other, with a small correlation r = 0.24. Based on this fact, we will find out the period which gives the largest correlation abs(r) with p << 0.05.
+If we run a Pearson test, we have a p value (1.70e-23) which is far smaller than 0.05, meaning the that Bitcoin price and 14-day rolling mean of number of quotations do positively correlate with each other, with a small correlation r = 0.24. Based on this fact, we will find out the period which gives the largest correlation abs(r) with p << 0.05.
 
 We further look into the correlation over different time periods.
 
@@ -137,11 +137,11 @@ We further look into the correlation over different time periods.
 | 01/2020 - 03/2020 | p > 0.05 | not correlated |
 
 We summarize in the below:
-- The general pearson test on Bitcoin price and rolling 14-day # quotations give a small but positive correlation between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean # quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015-2016, 2019-2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and # quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
+- The general pearson test on Bitcoin price and 14-day rolling mean of number of quotations give a small but positive correlation between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean of number of quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015-2016, 2019-2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and # quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
 
 - Separated analysis on 2017.01-2017.09 and 2018.04-2018.12 gives us a negative correlation result which counters our expectation. By checking the line plots, there exists a possible delay effect between the indicators: if we right shift the rolling mean curve, then we could possibly get a more positive correlated result. This delay effect may reflect speakers' comments and attitudes towards the crypto market, and they later bring impact to the Bitcoin market since named speakers are mostly influential.
 
-- The Bitcoin price increases rapidly in 2017, and suddenly drops in 2018, and # quotations fluctuate correspondingly. Pearson tests in 2017-2018 and the event period confirms this trend. 
+- The Bitcoin price increases rapidly in 2017, and suddenly drops in 2018, and the number of quotations fluctuate correspondingly. Pearson tests in 2017-2018 and the event period confirms this trend. 
 
 ## Bitcoin price and sentiment correlation
 
