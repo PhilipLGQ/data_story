@@ -31,7 +31,7 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 **Topic of 2015**
 
 ```diff
-+ Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
+Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 ```
 
 >_"Bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_  _**--George Popescu, CEO of Backed Inc. & Partner at LunaCap Ventures**_
