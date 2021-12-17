@@ -30,6 +30,7 @@ Since there are lots of discussions about the crypto currency in the past five y
 
 #### Topic of 2015
 _quotation_
+>California almond growers are once again being stung by a shortage of honeybees
 #### Topic of 2016
 _quotation_
 #### Topic of 2017 (Jan. 2017 - Sep. 2017)
