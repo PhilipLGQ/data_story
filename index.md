@@ -97,7 +97,7 @@ We pick up extreme attitudes for the analysis. For the
 We divide people into different occupations and make an analysis based on this division. There are people with more than 300 hundred occupations discussing crypto. We list the top four occupations and plot the distributions in the order of total quotation numbers.
 
 Occupation | Number of quotation
----------- |---------- 
+ :-: | :-: 
 Businessperson | 2096 
 Politacian | 1526 
 Journalist | 1171 
