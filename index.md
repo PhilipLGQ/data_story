@@ -59,17 +59,20 @@ Let's take a first bite of people's general attitudes.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_comp.html"></iframe>
 
+(By clicking the different tags at the top-right corner to hide the corresponding trace, you may have a clearer view!)
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_dist.html"></iframe>
 
-From the general analysis, we find that more people have a positive attitude towards crypto than people who have a negative attitude.   
+Playing around the above plots, we find that people may have a more “positive” attitude towards cryptocurrency than “negative” attitude.   
 
-Then we take a closer look at different periods for our purpose to figure out how different sentiment may have an effect on the bitcoin price.
+Then let's take a closer look at different periods and try to figure out whether different sentiments have an effect on the bitcoin price.
 
 <div class="myban">
     <img src="web_img/time_positive.png" />
     <img src="web_img/time_negative.png" />
 </div>
+
+
 
 <div class="myban">
     <img src="web_img/time_neu.png" />
