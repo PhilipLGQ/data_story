@@ -38,11 +38,15 @@ Topic: Bitcoin is a new blockchain technology that revolutionise how payments ar
 
 **Topic of 2016**
 
-`Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.`
+```diff
+Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
+```
 
 >_"Our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _**--Jesse Powell, CEO of Kraken**_
 
-`Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.`
+```diff
+Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
+```
 
 >_"China's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--**Dawei Li, CEO of CHBTC**_
 
