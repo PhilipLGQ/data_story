@@ -20,7 +20,7 @@ A **cryptocurrency** (crypto-currency, or crypto) is a collection of binary data
 
 From our quotation dataset, we find the distribution of quotations about cryptocurrency on different time periods.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/price_quote.html"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/quote_dist.html"></iframe>
 
 We can observe that people had a huge crush on cryptocurrency during the period between **the end of 2017 and the middle of 2018**. Before this period, the number of quotations was quite poor, no more than approximately 250 quotations per month, which is exactly the fact we are talking about in the [History of Cryptocurrency](#history-of-cryptocurrency). There were only a small number of people who were familiar with this concept at that time. After the huge breakout at the beginning of 2018, the number of quotations decreased to a stable level, around 500 per month. At that time, even layouts were actually very much aware of the concept, although the number of quotations underwent a sharp deacy, it still had much attention. 
 
