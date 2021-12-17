@@ -31,17 +31,17 @@ Since there are lots of discussions about the crypto currency in the past five y
 #### Topic of 2015
 _quotation_
 #### Topic of 2016
-_quotation
-#### Topic of 2017 (jan. - Sep.)
-_quotation
+_quotation_
+#### Topic of 2017 (Jan. 2017 - Sep. 2017)
+_quotation_
 #### Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)
-_quotation
+_quotation_
 #### Topic of 2018 (Apr. 2018 - Dec. 2018)
-_quotation
+_quotation_
 #### Topic of 2019
-_quotation
+_quotation_
 #### Topic of 2020 (Jan. 2020 - )
-_quotation
+_quotation_
 
 From the result, we can see that the topic shifts significantly over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
 
