@@ -52,41 +52,57 @@ Topic 1: Bitcoin companies are look forward for financial institutions to embrac
 
 **Topic of 2017 (Jan. 2017 - Sep. 2017)**
 
-`Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community`
+```diff
+Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
+```
 
 >_"We're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--**Alex Liu, CEO of AMIS**_
 
 **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 
-`Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".`
+```diff
+Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
+```
 
 >_"The increase in media coverage and hype around icos and 'cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and 'cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions"_  _--**Joseph Chan, the Under Secretary for Financial Services and the Treasury**_
 
 **Topic of 2018 (Apr. 2018 - Dec. 2018)**
 
-`Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.`
+```diff
+Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
+```
 
 >_"Originally people thought it might solve a payments problem but when you have an asset like xrp that's a thousand times faster and a thousand times cheaper on a per transaction basis bitcoin can't really compete on that level, you know an xrp transaction costs fractions of a penny and it settles in three seconds"_  _--**Brad Garlinghouse, CEO of Ripple Labs**_
 
-`Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.`
+```diff
+Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.
+```
 
 >_"I think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_  _--**Brad Garlinghouse, CEO of Ripple Labs**_
 
 **Topic of 2019**
 
-`Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.`
+```diff
+Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
+```
  
-`Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.`
+```diff
+Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.
+```
 
 _(In 2019, we haven't found any new topics from the quotations, but there seems to be an enduring interest in "bitcoin" and "ethereum", which makes us curious about the content of Bitcoin/Ethereumn related quotes.)_
 
 **Topic of 2020 (Jan. 2020 - )**
 
-`Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.`
+```diff
+Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
+```
 
 >_"However, unlike traditional safe-havens (treasury notes, us dollar, swiss franc, japanese yen, gold), the bitcoin market is a speculative one with high volatility, which might explain why they are failing to act as a safe-haven asset"_  _--**Yoni Assia, an early bitcoin acolyte and CEO of social investment platform eToro**_
 
-`Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.`
+```diff
+Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.
+```
 
 >_"Gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related"_  _--**Glen Goodman, Cryptocurrency trader and author**_
 
