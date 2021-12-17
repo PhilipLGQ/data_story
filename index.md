@@ -103,7 +103,7 @@ We can observe that businesspeople have the most quotation number among all othe
 
 We are interested in the analysis within different occupations—how do perspectives of people differ with specialized skills. We focus on the top two occupations, business people and politicians. 
 
-<img src="img/varroa_annotated.png">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/occu_compare.html"></iframe>
 
 ## Combined analysis of quotation numbers with Bitcoin Price
 #### Who will talk about cryptocurrency? What’s their sentiment towards it?
@@ -154,7 +154,5 @@ We make a summarization in the below:
 Given the analysis above, we may reach the answer of the puzzle stated at the very beginning of our data analysis. In general, there seems to be a weak correlation between the bitcoin price and people’s sentiment towards it. If we take the compound score over different time periods seriously, we may easily reach the conclusion that Bitcoin prices are actually correlated with people’s sentiment, which also makes sense because people will complain or praise Bitcoin if the price is fluctuating and indeed people’s attitude will influence the prices in turn. 
 
 There are many reasons that can count for the weak correlation. One of the biggest factors is that there are many unobserved covariates that will affect speakers’ attitude and the bitcoin price simultaneously. Given the limitation of quotebank dataset, we cannot avoid such problems. One way to deal with it is to introduce other datasets and complex economic theory, which is too heavy for our analysis. Also, the way we process the Bitcoin price and the division of time period will also have influence on the final analysis on the sentiment correlation result. 
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/occu_compare.html"></iframe>
 
 ## References
