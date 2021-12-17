@@ -26,7 +26,7 @@ We can observe that people had a huge crush on cryptocurrency during the period 
 
 Notice that there is a huge peak around the beginning of 2018. We paid additional attention to this period by analyzing it separately in the following analysis. 
 
-Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different years. 
+Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. 
 
 #### Topic of 2015
 _quotation_
