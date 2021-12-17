@@ -36,20 +36,20 @@ _"bitcoin is here to revolutionize how payments are made. bitcoin payments are i
 **Topic of 2016**
 >Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
 
-_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _--Jesse Powell, CEO of Kraken_
+_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _--`Jesse Powell, CEO of Kraken`_
 >Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
 
-_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--Dawei Li, CEO of CHBTC_
+_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--`Dawei Li, CEO of CHBTC`_
 
 **Topic of 2017 (Jan. 2017 - Sep. 2017)**
 >Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 
-_"we're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--Alex Liu, CEO of AMIS_
+_"we're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--`Alex Liu, CEO of AMIS`_
 
 **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 >Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
-_"the increase in media coverage and hype around icos and 'cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and 'cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions"_  _--Joseph Chan, the Under Secretary for Financial Services and the Treasury_
+_`"the increase in media coverage and hype around icos and 'cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and 'cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions"`_  _--Joseph Chan, the Under Secretary for Financial Services and the Treasury_
 
 **Topic of 2018 (Apr. 2018 - Dec. 2018)**
 >Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
