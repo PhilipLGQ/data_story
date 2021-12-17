@@ -91,8 +91,8 @@ Then let's take a closer look at different periods and try to figure out whether
 
 We pick up extreme attitudes for the analysis. For the  
 
-## Speaker Portrait Analysis
-#### Who will talk about cryptocurrency? What’s their sentiment towards it?
+## Speaker Portrait
+#### Who talk about cryptocurrency the most? What are their attitudes towards it?
 
 We divide people into different occupations and make an analysis based on this division. There are people with more than 300 hundred occupations discussing crypto. We list the top ten occupations and plot the distributions in the order of total quotation numbers.
 
@@ -106,7 +106,6 @@ We are interested in the analysis within different occupations—how do perspect
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/occu_compare.html"></iframe>
 
 ## Combined analysis of quotation numbers with Bitcoin Price
-#### Who will talk about cryptocurrency? What’s their sentiment towards it?
 
 The Bitcoin price can be extracted from [CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/historical-data/). We wanna know if there is a correlation between quotation numbers with the Bitcoin price.
 
