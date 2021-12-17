@@ -119,7 +119,12 @@ If we run a Pearson test, we have a p value (1.70e-23) which is far smaller than
 
 We further look into the correlation over different time periods.
 
-<img src="img/varroa_annotated.png">
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
 
 We summarize in the below:
 - The general pearson test on Bitcoin price and rolling 14-day # quotations give a small but positive correlation between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean # quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015-2016, 2019-2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and # quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
@@ -128,7 +133,7 @@ We summarize in the below:
 
 - The Bitcoin price increases rapidly in 2017, and suddenly drops in 2018, and # quotations fluctuate correspondingly. Pearson tests in 2017-2018 and the event period confirms this trend. 
 
-## Combined analysis of quotation numbers with Bitcoin Price
+## Bitcoin price and sentiment correlation
 
 Finally, we are curious about whether there is correlation between Bitcoin price and people’s sentiment towards it. To do this, we ran a sentiment analysis on all the quotations over different time periods and analyzed the correlation with positive, negative, neutral and compound scores.
 
@@ -136,9 +141,19 @@ Finally, we are curious about whether there is correlation between Bitcoin price
 
 First, we present different scores and bitcoin prices over time. The y axis on the left (Close) is the bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general person test shows us the … score actually has a weak positive correlation (r=, p=) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
 
-<img src="img/varroa_annotated.png">
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
 
-<img src="img/varroa_annotated.png">
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
 
 We make a summarization in the below:
 - The result of general analysis on compound, positive, and negative sentiment scores reveals that crypto-related quotations' sentiment does have correlation with the Bitcoin price. However, the pearson r for all four sentiment scores are relatively small, which means the correlations are not strong. 
@@ -147,7 +162,7 @@ We make a summarization in the below:
 
 - Separation analysis on the neutral score shows that in each separation during 2017-2018, neutral score is negatively correlated to Bitcoin price. Combining the fact that quotations are heavily distributed in these separations, this suggests that polarized crypto quotations may correlate to a decrease in Bitcoin price, which means the Bitcoin price would affect speakers' neutrality.
 
-## Combined analysis of quotation numbers with Bitcoin Price
+## Conclusions
 ### The evolution story of crypto, Bitcoin in the last 5 years
 
 Given the analysis above, we may reach the answer of the puzzle stated at the very beginning of our data analysis. In general, there seems to be a weak correlation between the bitcoin price and people’s sentiment towards it. If we take the compound score over different time periods seriously, we may easily reach the conclusion that Bitcoin prices are actually correlated with people’s sentiment, which also makes sense because people will complain or praise Bitcoin if the price is fluctuating and indeed people’s attitude will influence the prices in turn. 
