@@ -61,7 +61,7 @@ Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and E
 **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 
 ```diff
-Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
+Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets. Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 ```
 
 >_"The increase in media coverage and hype around icos and 'cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and 'cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions"_  _--**Joseph Chan, the Under Secretary for Financial Services and the Treasury**_
@@ -75,7 +75,7 @@ Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoi
 >_"Originally people thought it might solve a payments problem but when you have an asset like xrp that's a thousand times faster and a thousand times cheaper on a per transaction basis bitcoin can't really compete on that level, you know an xrp transaction costs fractions of a penny and it settles in three seconds"_  _--**Brad Garlinghouse, CEO of Ripple Labs**_
 
 ```diff
-Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.
+Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp".
 ```
 
 >_"I think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_  _--**Brad Garlinghouse, CEO of Ripple Labs**_
