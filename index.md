@@ -31,33 +31,33 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 **Topic of 2015**
 >Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 
-_"bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_
+_"bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_  _--George Popescu_
 
 **Topic of 2016**
 >Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
 
-_" our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_
+_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _--Jesse Powell_
 >Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
 
-_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_
+_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--Dawei Li_
 
 **Topic of 2017 (Jan. 2017 - Sep. 2017)**
 >Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 
-_"toyota research institute supports the enterprise ethereum alliance and its members in promoting common standards and tools to accelerate the adoption of this technology and the potential benefits for toyota's customers"_
+_"we're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--Alex Liu_
 
 **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 >Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
-_"virtual currencies (vcs) don't have any intrinsic value and are not backed by any kind of assets. the price of bitcoin and other vcs, therefore, is entirely a matter of mere speculation resulting in spurt and volatility in their prices. there is a real and heightened risk of investment bubble of the type seen in ponzi schemes which can result in sudden and prolonged crash exposing investors, especially retail consumers losing their hard-earned money. consumers need to be alert and extremely cautious as to avoid getting trapped in such ponzi schemes,"_
+_"the increase in media coverage and hype around icos and `cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and `cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions."_  _--Joseph Chan_
 
 **Topic of 2018 (Apr. 2018 - Dec. 2018)**
 >Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
 
-_"xrp's utility lies in its speed and scalability, which makes it the perfect fit for cross-border payments. the xrp ledger can send 1,500 transactions per second"_
+_"originally people thought it might solve a payments problem but when you have an asset like xrp that's a thousand times faster and a thousand times cheaper on a per transaction basis bitcoin can't really compete on that level, you know an xrp transaction costs fractions of a penny and it settles in three seconds"_  _--Brad Garlinghouse_
 >Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.
 
-_"i think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_
+_"i think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_  _--Brad Garlinghouse_
 
 **Topic of 2019**
 >Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
