@@ -130,6 +130,11 @@ Then let's take a closer look at different periods and try to figure out whether
 
 - From neutral score stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (neutral score < 0.4) quotations).
 
+From the composite scores of businessmen and politicians, we can observe that the general attitude towards crypto is decreasing. 2015 is the most optimistic year for businessmen, probably because there was potential commercial interest at the very beginning of crypto. Afterwards, between 2016-2018, businessmen are not so sure about the advantage of the crypto. But the sentiment changes are rather flat during the huge shock of the crypto price fluctuation. However in 2019, businessmen are again very positive about crypto with a large increase in the compound score, but still doesn’t exceed the optimistic attitude in 2015. Then in 2020, businessmen are suddenly not so excited about it and become more neutral.
+
+As for the politician, the general attitude is more neutral and flat compared with businessmen, partialy because the crypto is not issued by any national institution.
+
+
 ## Speaker Portrait
 #### Who talk about cryptocurrency the most? What are their attitudes towards it?
 
