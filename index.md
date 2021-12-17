@@ -9,23 +9,24 @@ bigimg: img/head2.png
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 <div style="width: 500px; height: 500px; float:left" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
-Cryptocurrency is quite a prevailing topic in the recent 5 years and we can hear not only business people but also many layouts talk about it. But this concept was largely constrained itself only in a small group of computer scientists one decade ago. After it exerted influence on the price of Graphics and underwent huge price fluctuations, people were becoming more and more familiar with this newly developed concept with different understandings and behavior. 
+**Cryptocurrency** is such a prevailing topic that in the recent five years, not only business people but also many people from different fields were talking about it. However, the concept of cryptocurrency was largely constrained itself to a small group of computer scientists about a decade ago. After a huge wave of fluctuation on both bitcoin price and graphic cards, people became more and more familiar with and acquired different understandings about this newly developed, mysterious and state-of -art concept.
 
-A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange. However, the attributes of cryptocurrency are quite ambiguous, especially in the property of decentralization, which means that it’s issued by the central bank. This leads to the fact that the currency has no national force to support it, the price can be more sensitive for many reasons. Recall that in the stock market, sentiment towards a specific stock can be a huge factor of its price, so we wonder whether it applies the same for the cryptocurrency price. Equipped with the quotation dataset, we may be able to have a research into it. But before going into the influence of people’s sentiment, let’s first start with analyzing in what sense people are talking about the crypto currency. 
+A **cryptocurrency** (crypto-currency, or crypto) is a collection of binary data which is designed to work as a medium of exchange. However, the attributes of cryptocurrency are quite ambiguous, especially the property of **decentralization**, which means that it’s not issued by any central bank. This leads to the fact that the currency has **no national force** to support it, and the price can be sensitive to many factors. Recall that in the stock market, sentiment towards a specific stock can be a huge factor to influence the price, so we wonder whether sentiment applies the same effect on the cryptocurrency price. With the help of quotation dataset from **Quotebank**, we could explore the possibility of this idea. Before digging deeper, let’s first take a look at what people are talking about the cryptocurrency! 
+
 
 
 ## Quotations per Year and Topics Shifts 
 #### What topics about Bitcoin are popular in Quotebank, what contents are included in each topic? & How does the trend of topics about Bitcoin change over time?
 
-From the quotation dataset, we find the distribution of quotations about crypto currency during different time periods.
+From our quotation dataset, we find the distribution of quotations about cryptocurrency on different time periods.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/price_quote.html"></iframe>
 
-We can observe that people are more likely to discuss it from the end of 2017 to the middle of 2018. Before that time, there were no more than approximately 250 quotations per month, which corresponds to the fact that there were only a small number of people who were familiar with this concept at that time. After the huge breakout around the beginning of 2018, the number of quotations decreased to a stable level around 500 per month. At that time, even layouts were actually very much aware of the concept and although the number of quotations underwent a sharp deacy, it still had much attention. 
+We can observe that people had a huge crush on cryptocurrency during the period between **the end of 2017 and the middle of 2018**. Before this period, the number of quotations was quite poor, no more than approximately 250 quotations per month, which is exactly the fact we are talking about in the [History of Cryptocurrency](#history-of-cryptocurrency). There were only a small number of people who were familiar with this concept at that time. After the huge breakout at the beginning of 2018, the number of quotations decreased to a stable level, around 500 per month. At that time, even layouts were actually very much aware of the concept, although the number of quotations underwent a sharp deacy, it still had much attention. 
 
-Notice that there is a huge peak around the beginning of 2018, so we paid special attention to this period by taking it along in the following analysis. 
+Notice that there is a huge peak around the beginning of 2018. We paid additional attention to this period by analyzing it separately in the following analysis. 
 
-Since there are a lot of discussions about the crypto currency during the past five years, we are wondering how topics about crypto currency change over time? We summarize the hottest topics over different years. 
+Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different years. 
 
 <img src="img/varroa_annotated.png">
 
