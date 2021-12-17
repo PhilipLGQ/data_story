@@ -53,10 +53,14 @@ Let's take a first bite of people's general attitudes.
 }
 </style>
 
-<div class="myban">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_comp.html"></iframe>
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_dist.html"></iframe>
-</div>
+<!--div class="myban"-->
+
+<!--/div-->
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_comp.html"></iframe>
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_dist.html"></iframe>
 
 From the general analysis, we find that more people have a positive attitude towards crypto than people who have a negative attitude.   
 
