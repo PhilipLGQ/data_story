@@ -212,22 +212,22 @@ Topic 2: Although politicians are concerned about the risk of cryptocurrencies a
 **Businesspeople**
 
 ```diff
-Topic 0: Government anouncements on accepting cryptocurrencies for payment has shown its adoption to cryptocurrencies.
+Topic 0: As a digital gold, whether bitcoin can play the same role as gold is widely discussed.
 ```
 
->_"Cryptocurrencies are becoming increasingly accepted as forms of payment for many transactions across the state, including by government entities. the seminole county tax collector announced that the office will accept bitcoin as payment for property taxes, identification cards and license plates"_  _**--Jimmy Patronis, Florida Chief Financial Officer**_
+>_"While similarities exist between gold and bitcoin (e.g., store of value, price determined by supply and demand), gold has been recognized as a store of value for millennia. bitcoin has been recognized as a store of value for less than a decade."_  _**--Jim Powers, Director of Investment Research at Delegate Advisors**_
 
 ```diff
-Topic 1: Some countries are funding digital currency researches and making investments on cryptocurrencies.
+Topic 1: A lot of businessman believes that cryptocurrencie is the ideal assets for investment and trading.
 ```
 
->_"The £ 10m in funding for digital currency research demonstrates that this government is serious about making the uk an attractive destination for cryptocurrency entrepreneurs and investment. no other government has made such a positive overture to bitcoin"_  _**--Tom Robinson, a board member of the UK Digital Currency Association**_
+>_"We believe that bitcoin is not yet mainstream and will continue to grow in value as more financial use cases move to crypto. buying and holding bitcoin has outpaced every single traditional investment since 2009 and is likely to continue to do so for several years"_  _**--David Henderson, founder of Sweetbridge**_
 
 ```diff
-Topic 2: Although politicians are concerned about the risk of cryptocurrencies as a "bubble", they attaches great importance to the underneath blockchain technology.
+Topic 2: Crypto mining business has become one of the most profitable business.
 ```
 
->_"Blockchain technology could change our world more than people imagine. bitcoin, however, could be a bubble"_  _**--Jack Ma, leader of Multinational technology conglomerate Alibaba Group**_
+>_"We have spent the past several months evaluating investments and find the emerging opportunities in the blockchain and cryptocurrency arena to be compelling. with the recent market price of about us$ 10,000 per bitcoin, we are excited to be investing in the extremely profitable crypto mining business. while we remain confident of the long-term viability of the business model, we are not solely reliant on bitcoin -- the tg12 mining operation has the flexibility to switch between cryptocurrencies to focus computing resources on emerging and newly profitable coins as they arise"_  _**--David Berg, CEO of Block One Capital Inc.**_
 
 **Compound scores** of businessmen and politicians tell us that the general attitude towards cryptocurrency is **decreasing**. 2015 is the most **optimistic** year for businessmen, probably because there was potential commercial interest at the very beginning of cryptocurrency. Afterward, between 2016-2018, businessmen started to **doubt** the advantages of cryptocurrency. But the sentiment changes are rather flat during the huge wave of the cryptocurrency price fluctuation. However, in 2019, businessmen were again **positive** about cryptocurrency with a large increase in the compound score but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen **lost their interest** again and become more neutral.
 
