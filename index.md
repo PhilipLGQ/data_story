@@ -7,6 +7,10 @@ bigimg: img/head2.png
 ## History of Cryptocurrency
 #### What is Cryptocurrency?
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 <div style="width: 500px; height: 500px; float:left" data-wordart-src="//cdn.wordart.com/json/tuhs2fh26usd"></div>
 **Cryptocurrency** is such a prevailing topic that in the recent five years, not only business people but also many people from different fields were talking about it. However, the concept of cryptocurrency was largely constrained itself to a small group of computer scientists about a decade ago. After a huge wave of fluctuation on both bitcoin prices and graphic cards, people became more and more familiar with it and acquired different understandings about this newly developed, mysterious and state-of-art concept.
