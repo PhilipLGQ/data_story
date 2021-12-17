@@ -72,6 +72,7 @@ Since there are lots of discussions about cryptocurrency in the past five years,
  
 `Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.`
 
+_(In 2019, we haven't found any new topics from the quotations, but there seems to be an enduring interest in "bitcoin" and "ethereum", which makes us curious about the content of Bitcoin/Ethereumn related quotes.)_
 
 **Topic of 2020 (Jan. 2020 - )**
 
