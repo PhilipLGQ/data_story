@@ -68,10 +68,10 @@ _"i think it's really clear that xrp is not a security. xrp exists independent o
 **Topic of 2020 (Jan. 2020 - )**
 >Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
 
-_"even though bitcoin is compared to gold as a safe haven asset, it's very under-penetrated and is considered more as a risky asset to hold at this point"._
+_"however, unlike traditional safe-havens (treasury notes, us dollar, swiss franc, japanese yen, gold), the bitcoin market is a speculative one with high volatility, which might explain why they are failing to act as a safe-haven asset."._  _--Yoni Assia_
 >Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.
 
-_"gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related."_
+_"gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related"_  _--Glen Goodman_
 
 From the result, we can see that the topic shifts over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
 
@@ -149,7 +149,7 @@ Politacian | 1526
 Journalist | 1171 
 Researcher | 1058 
 
-We can observe that **businesspeople** have the most quotation number among all other occupations. **Politicians** come second with _1439_ quotations. **Journalists** and **researchers** are the third and fourth most frequent speakers about crypto with _1171_ and _1058_ quotations within the last five years.
+We can observe that **businesspeople** have the most quotation number among all other occupations. **Politicians** come second with _1526_ quotations. **Journalists** and **researchers** are the third and fourth most frequent speakers about crypto with _1171_ and _1058_ quotations within the last five years.
 
 We are interested in the analysis within different occupations—different perspectives of people differ with specialized skills. We focus on the top two occupations, business people and politicians. 
 
