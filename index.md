@@ -31,33 +31,33 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 **Topic of 2015**
 >Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 
-_"bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_  _--George Popescu_
+_"bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_  _--George Popescu, CEO of Backed Inc. & Partner at LunaCap Ventures_
 
 **Topic of 2016**
 >Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
 
-_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _--Jesse Powell_
+_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _--Jesse Powell, CEO of Kraken_
 >Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
 
-_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--Dawei Li_
+_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--Dawei Li, CEO of CHBTC_
 
 **Topic of 2017 (Jan. 2017 - Sep. 2017)**
 >Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 
-_"we're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--Alex Liu_
+_"we're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--Alex Liu, CEO of AMIS_
 
 **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 >Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
-_"the increase in media coverage and hype around icos and `cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and `cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions."_  _--Joseph Chan_
+_"the increase in media coverage and hype around icos and `cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and `cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions"_  _--Joseph Chan, the Under Secretary for Financial Services and the Treasury_
 
 **Topic of 2018 (Apr. 2018 - Dec. 2018)**
 >Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
 
-_"originally people thought it might solve a payments problem but when you have an asset like xrp that's a thousand times faster and a thousand times cheaper on a per transaction basis bitcoin can't really compete on that level, you know an xrp transaction costs fractions of a penny and it settles in three seconds"_  _--Brad Garlinghouse_
+_"originally people thought it might solve a payments problem but when you have an asset like xrp that's a thousand times faster and a thousand times cheaper on a per transaction basis bitcoin can't really compete on that level, you know an xrp transaction costs fractions of a penny and it settles in three seconds"_  _--Brad Garlinghouse, CEO of Ripple Labs_
 >Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.
 
-_"i think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_  _--Brad Garlinghouse_
+_"i think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_  _--Brad Garlinghouse, CEO of Ripple Labs_
 
 **Topic of 2019**
 >Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
@@ -68,10 +68,10 @@ _"i think it's really clear that xrp is not a security. xrp exists independent o
 **Topic of 2020 (Jan. 2020 - )**
 >Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
 
-_"however, unlike traditional safe-havens (treasury notes, us dollar, swiss franc, japanese yen, gold), the bitcoin market is a speculative one with high volatility, which might explain why they are failing to act as a safe-haven asset."._  _--Yoni Assia_
+_"however, unlike traditional safe-havens (treasury notes, us dollar, swiss franc, japanese yen, gold), the bitcoin market is a speculative one with high volatility, which might explain why they are failing to act as a safe-haven asset"._  _--Yoni Assia, an early bitcoin acolyte and CEO of social investment platform eToro_
 >Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.
 
-_"gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related"_  _--Glen Goodman_
+_"gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related"_  _--Glen Goodman, Cryptocurrency trader and author_
 
 From the result, we can see that the topic shifts over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
 
