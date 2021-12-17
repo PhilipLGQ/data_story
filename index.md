@@ -61,7 +61,7 @@ Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and E
 **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 
 ```diff
-Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets. Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
+Topic is about potential risks, such as price volatility, of investing in cryptocurrency, because it neither has any intrinsic value nor being backed by any kind of assets. Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 ```
 
 >_"The increase in media coverage and hype around icos and 'cryptocurrencies' , such as bitcoin, has aroused public interest. however, the public might use these as speculative tools without full understanding of their nature and potential risks. through this series of public education initiatives, the government aims to provide the public with a correct and comprehensive understanding of icos and 'cryptocurrencies' , so that they can thoroughly assess the risks before making transactions or investment decisions"_  _--**Joseph Chan, the Under Secretary for Financial Services and the Treasury**_
