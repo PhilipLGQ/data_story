@@ -130,12 +130,15 @@ If we run a Pearson test, we have a p value (1.70e-23) which is far smaller than
 
 We further look into the correlation over different time periods.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Period | P Value | r |
+| :------: |:---: | :---: |
+| 2015 | p > 0.05 | not correlated |
+| 2016 | p > 0.05 | not correlated |
+| 01/2017 - 09/2017 | p < 0.05 | -0.703 |
+| 10/2017 - 03/2018 | p < 0.05 | 0.563 |
+| 04/2018 - 12/2018 | p < 0.05 | -0.239 |
+| 01/2019 - 12/2019 | p < 0.05 | -0.286 |
+| 01/2020 - 03/2020 | p > 0.05 | not correlated |
 
 We summarize in the below:
 - The general pearson test on Bitcoin price and rolling 14-day # quotations give a small but positive correlation between these two indicators. This means that from a larger scale over the periods, when Bitcoin price rises, 14-day rolling mean # quotations have a tendency to increase correspondingly. Generally, we could say that the fluctuation of Bitcoin price does affect speakers' interest on crypto-related topics. However, from the line plots and separated Pearson tests we could still see that this general correlation acts poorly for 2015-2016, 2019-2020. But if we take a closer look on the curve trend, in 2015-2016 both Bitcoin price and # quotations remain at low quantity. This may reveal that crypto is not widely known to the public and it has not yet become a popular topic.
