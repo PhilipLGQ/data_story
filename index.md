@@ -197,7 +197,7 @@ Finally, we are curious about whether there is correlation between Bitcoin price
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/price_compound.html"></iframe>
 
-First, we present different scores and bitcoin prices over time. The y axis on the left (Close) is the bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general person test shows us the general sentiment actually has a weak positive correlation (**r=0.10330391252755933**, **p=2.1020253146484618e-05**) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
+First, we present different scores and bitcoin prices over time. The y axis on the left (Close) is the bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general person test shows us the general sentiment actually has a **weak positive correlation** (**r=0.10330391252755933**, **p=2.1020253146484618e-05**) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
 
 | Period | P Value | r |
 | :------: |:---: | :---: |
@@ -212,9 +212,9 @@ First, we present different scores and bitcoin prices over time. The y axis on t
 We make a summarization in the below:
 - The result of **general analysis** on compound, positive, and negative sentiment scores reveals that crypto-related quotations' sentiment does **have correlation** with the Bitcoin price. However, the Pearson r for all four sentiment scores are relatively small, which means the **correlations are not strong**. 
 
-- **Separation analysis** on the compound score and the **positive score** shows similar **positive correlation** from 2016 to 2019, whereas the **negative score** shows **negative correlation** only in 2016, 2019, and 2020. This correlation pattern may suggest that a positive score determines the compound score correlation more than the negative score.
+- Separation analysis on the **compound score** and the **positive score** shows similar **positive correlation** from 2016 to 2019, whereas the **negative score** shows **negative correlation** only in 2016, 2019, and 2020. This correlation pattern may suggest that a positive score determines the compound score correlation more than the negative score.
 
-- **Separation analysis** on the **neutral score** shows that in each separation during 2017-2018, neutral score is **negatively correlated** to Bitcoin price. Combining the fact that quotations are heavily distributed in these separations, this suggests that polarized crypto quotations may correlate to a decrease in Bitcoin price, which means the Bitcoin price would affect speakers' neutrality.
+- Separation analysis on the **neutral score** shows that in each separation during 2017-2018, neutral score is **negatively correlated** to Bitcoin price. Combining the fact that quotations are heavily distributed in these separations, this suggests that polarized crypto quotations may correlate to a decrease in Bitcoin price, which means the Bitcoin price would affect speakers' neutrality.
 
 ## Conclusions
 ### The evolution story of crypto, Bitcoin in the last 5 years
