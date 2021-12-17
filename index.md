@@ -123,7 +123,7 @@ Let's first take a bite of people's general attitudes.
 .myban img{
     width:350px;
     height:400px;
-    float:left;
+    float:middle;
 }
 </style>
 
