@@ -33,12 +33,12 @@ Since there are lots of discussions about the crypto currency in the past five y
 From the result, we can see that the topic shifts significantly over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
 
 
-## Sentiment Analysis
-#### What sentiment/attitude does each topic present, how does politician/researcher comment on Bitcoin differently? & Does sentiment/attitude have a correlation with the fluctuation of Bitcoin price generally and for each topic?
+## Like it? Or hate it?
+#### Let’s take a look at people’s attitudes towards cryptocurrency! 
 
-Now let’s take a look at people’s sentiment towards cryptos. We divide different periods basically by one year except for the time period around the beginning of 2018. 
+We divide periods annually except for the time period around the beginning of 2018. It was so popular at that time!
 
-We first make a very general analysis over all quotations.
+Let's take a first bite of people's general attitudes.
 <style type="text/css">
 .myban{
     width:700x;
@@ -54,13 +54,8 @@ We first make a very general analysis over all quotations.
 </style>
 
 <div class="myban">
-    <img src="web_img/general_pos.png" />
-    <img src="web_img/general_neg.png" />
-</div>
-
-<div class="myban">
-    <img src="web_img/general_neu.png" />
-    <img src="web_img/general_comp.png" />
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_comp.html"></iframe>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/general_dist.html"></iframe>
 </div>
 
 From the general analysis, we find that more people have a positive attitude towards crypto than people who have a negative attitude.   
