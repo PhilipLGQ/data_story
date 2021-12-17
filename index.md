@@ -39,6 +39,7 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 `Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.`
 
 >_"Our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_  _**--Jesse Powell, CEO of Kraken**_
+
 `Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.`
 
 >_"China's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_  _--**Dawei Li, CEO of CHBTC**_
@@ -60,6 +61,7 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 `Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.`
 
 >_"Originally people thought it might solve a payments problem but when you have an asset like xrp that's a thousand times faster and a thousand times cheaper on a per transaction basis bitcoin can't really compete on that level, you know an xrp transaction costs fractions of a penny and it settles in three seconds"_  _--**Brad Garlinghouse, CEO of Ripple Labs**_
+
 `Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.`
 
 >_"I think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_  _--**Brad Garlinghouse, CEO of Ripple Labs**_
@@ -76,6 +78,7 @@ Since there are lots of discussions about cryptocurrency in the past five years,
 `Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.`
 
 >_"However, unlike traditional safe-havens (treasury notes, us dollar, swiss franc, japanese yen, gold), the bitcoin market is a speculative one with high volatility, which might explain why they are failing to act as a safe-haven asset"_  _--**Yoni Assia, an early bitcoin acolyte and CEO of social investment platform eToro**_
+
 `Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.`
 
 >_"Gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related"_  _--**Glen Goodman, Cryptocurrency trader and author**_
