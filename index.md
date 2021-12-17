@@ -24,9 +24,9 @@ From our quotation dataset, we find the distribution of quotations about cryptoc
 
 We can observe that people had a huge crush on cryptocurrency during the period between **the end of 2017 and the middle of 2018**. Before this period, the number of quotations was quite poor, no more than approximately 250 quotations per month, which is exactly the fact we are talking about in the [History of Cryptocurrency](#history-of-cryptocurrency). There were only a small number of people who were familiar with this concept at that time. After the huge breakout at the beginning of 2018, the number of quotations decreased to a stable level, around 500 per month. At that time, even layouts were actually very much aware of the concept, although the number of quotations underwent a sharp deacy, it still had much attention. 
 
-Notice that there is a huge peak around the beginning of 2018. We paid additional attention to this period by analyzing it separately in the following analysis. 
+Notice that there is a huge peak around the end of 2017 and the beginning of 2018. We paid additional attention to this period by analyzing it separately in the following analysis. 
 
-Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. 
+Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. We noticed that there are two topics, **Bitcoin's price** and **blockchain technology**, which are the most popular among all ohter topics in every period. In order to find more about the popular topics, we select several **other popular topics** in every period except them.
 
 - **Topic of 2015**
 >Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
@@ -47,12 +47,9 @@ _"china's central bank also is actively preparing to issue its digital currency,
 _"toyota research institute supports the enterprise ethereum alliance and its members in promoting common standards and tools to accelerate the adoption of this technology and the potential benefits for toyota's customers"_
 
 - **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
->Topic 0 is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme"
- 
-_quotation_
->Topic 1 is about bubble. Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
+>Topic 0 is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
-_quotation_
+_"virtual currencies (vcs) don't have any intrinsic value and are not backed by any kind of assets. the price of bitcoin and other vcs, therefore, is entirely a matter of mere speculation resulting in spurt and volatility in their prices. there is a real and heightened risk of investment bubble of the type seen in ponzi schemes which can result in sudden and prolonged crash exposing investors, especially retail consumers losing their hard-earned money. consumers need to be alert and extremely cautious as to avoid getting trapped in such ponzi schemes,"_
 
 - **Topic of 2018 (Apr. 2018 - Dec. 2018)**
 >Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
@@ -65,10 +62,8 @@ _"i think it's really clear that xrp is not a security. xrp exists independent o
 - **Topic of 2019**
 >Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
  
-_quotation_
 >Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.
 
-_quotation_
 
 - **Topic of 2020 (Jan. 2020 - )**
 >Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
