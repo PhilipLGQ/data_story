@@ -2,7 +2,7 @@
 layout: page
 title: Cryptocurrencies in Quote
 subtitle: Evolution of Cryptocurrencies Topics and Sentimental Influence on Cryptocurrencies Price
-bigimg: img/head2.png
+bigimg: img/head_img.jpg
 ---
 ## History of Cryptocurrency
 #### What is Cryptocurrency?
