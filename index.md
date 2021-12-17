@@ -31,40 +31,52 @@ Since there are lots of discussions about the crypto currency in the past five y
 - **Topic of 2015**
 >Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 
-_quotation_
+_"bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_
 
 - **Topic of 2016**
 >Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
 
+_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_
 >Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
-_quotation_
+
+_"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_
 
 - **Topic of 2017 (Jan. 2017 - Sep. 2017)**
 >Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 
-_quotation_
+_"toyota research institute supports the enterprise ethereum alliance and its members in promoting common standards and tools to accelerate the adoption of this technology and the potential benefits for toyota's customers"_
 
 - **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
->Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
+>Topic 0 is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme"
+ 
+_quotation_
+>Topic 1 is about bubble. Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
 _quotation_
 
 - **Topic of 2018 (Apr. 2018 - Dec. 2018)**
->Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
+>Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
 
-_quotation_
+_"xrp's utility lies in its speed and scalability, which makes it the perfect fit for cross-border payments. the xrp ledger can send 1,500 transactions per second"_
+>Topic 1 is about "security" issues. Security refers to a share of ownership in a company—giving the shareholder a stake in the business and an interest in its profits. Most "xrp" related quotations are actually promoting knowledge about "xrp", such as, "xrp" is a crypto currency issued by "Ripple" Co., people holding "xrp" does not mean that people holding a stake of "Ripple" Co.
+
+_"i think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_
 
 - **Topic of 2019**
->Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
+>Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
+ 
+_quotation_
+>Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.
 
 _quotation_
 
 - **Topic of 2020 (Jan. 2020 - )**
 >Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
 
+_"even though bitcoin is compared to gold as a safe haven asset, it's very under-penetrated and is considered more as a risky asset to hold at this point"._
 >Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.
 
-_quotation_
+_"gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related."_
 
 From the result, we can see that the topic shifts significantly over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
 
