@@ -209,7 +209,7 @@ Topic 2: Although politicians are concerned about the risk of cryptocurrencies a
 >_"Blockchain technology could change our world more than people imagine. bitcoin, however, could be a bubble"_  _**--Jack Ma, leader of Multinational technology conglomerate Alibaba Group**_
 
 
-**Businesspeople**
+**Businessman**
 
 ```diff
 Topic 0: As a digital gold, whether bitcoin can play the same role as gold is widely discussed.
