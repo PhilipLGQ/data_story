@@ -28,30 +28,30 @@ Notice that there is a huge peak around the end of 2017 and the beginning of 201
 
 Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. We noticed that there are two topics, **Bitcoin's price** and **blockchain technology**, which are the most popular among all ohter topics in every period. In order to find more about the popular topics, we select several **other popular topics** in every period except them.
 
-- **Topic of 2015**
+**Topic of 2015**
 >Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 
 _"bitcoin is here to revolutionize how payments are made. bitcoin payments are instantaneous, 100% safe, and by far the cheapest. it will impact humanity in the same way as paper money did when it replaced gold and silver coins"_
 
-- **Topic of 2016**
+**Topic of 2016**
 >Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
 
-_"our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_
+_" our new relationship with money partners group is a huge win for bitcoin and ethereum awareness and adoption around the world. the results we will achieve together will show other financial institutions why they should embrace digital assets and blockchain technologies"_
 >Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
 
 _"china's central bank also is actively preparing to issue its digital currency, which is a positive signal for bitcoin companies and investors. the recent devaluations of the cny has also helped to legitimize bitcoin; this coupled with current macroeconomic crises around the world, we believe, has lead to substantial inflows of capital into bitcoin as it is increasingly seen a safe haven asset in the eyes of local investors"_
 
-- **Topic of 2017 (Jan. 2017 - Sep. 2017)**
+**Topic of 2017 (Jan. 2017 - Sep. 2017)**
 >Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 
 _"toyota research institute supports the enterprise ethereum alliance and its members in promoting common standards and tools to accelerate the adoption of this technology and the potential benefits for toyota's customers"_
 
-- **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
+**Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
 >Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
 _"virtual currencies (vcs) don't have any intrinsic value and are not backed by any kind of assets. the price of bitcoin and other vcs, therefore, is entirely a matter of mere speculation resulting in spurt and volatility in their prices. there is a real and heightened risk of investment bubble of the type seen in ponzi schemes which can result in sudden and prolonged crash exposing investors, especially retail consumers losing their hard-earned money. consumers need to be alert and extremely cautious as to avoid getting trapped in such ponzi schemes,"_
 
-- **Topic of 2018 (Apr. 2018 - Dec. 2018)**
+**Topic of 2018 (Apr. 2018 - Dec. 2018)**
 >Topic 0: xrp has faster transaction time and cheaper transaction fee that bitcoin can't really compete, which is the reason why "xrp" stand out from the crowd.
 
 _"xrp's utility lies in its speed and scalability, which makes it the perfect fit for cross-border payments. the xrp ledger can send 1,500 transactions per second"_
@@ -59,13 +59,13 @@ _"xrp's utility lies in its speed and scalability, which makes it the perfect fi
 
 _"i think it's really clear that xrp is not a security. xrp exists independent of ripple and it would operate even if ripple labs failed. i don't think that our ownership of xrp gives us control. saudi arabia owns a lot of oil that doesn't give them control of oil"_
 
-- **Topic of 2019**
+**Topic of 2019**
 >Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
  
 >Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.
 
 
-- **Topic of 2020 (Jan. 2020 - )**
+**Topic of 2020 (Jan. 2020 - )**
 >Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
 
 _"even though bitcoin is compared to gold as a safe haven asset, it's very under-penetrated and is considered more as a risky asset to hold at this point"._
