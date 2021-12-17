@@ -10,11 +10,11 @@ Searching & crawling supportive datasets, consistency checking, database problem
 
 ### Guanqun LIU
 
-Problem formulation, finding algorithms & tools, report writing, proposed LDA model training, proposed data story writing, and sentiment analysis
+Problem formulation, finding algorithms & tools, report writing, proposed LDA model training, proposed data visusalisation, and sentiment analysis
 
 ### Xianjie DAi
 
-Searching & crawling supportive datasets, database problem solving, proposed graph plotting, proposed data story writing, and web developing
+Searching & crawling supportive datasets, database problem solving, proposed data visusalisation, proposed data story writing, and web developing
 
 ### Yixuan XU
 
