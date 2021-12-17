@@ -291,7 +291,7 @@ We make a summarization in the below:
 - Separation analysis on the **neutral score** shows that in each separation during 2017-2018, the neutral score is **negatively correlated** to Bitcoin price. Combining the fact that quotations are heavily distributed in these separations, this suggests that polarized cryptocurrency quotations may correlate to a decrease in Bitcoin price, which means the Bitcoin price would affect speakers' neutrality.
 
 ## Conclusions
-### The evolution story of cryptocurrency, Bitcoin in the last 5 years
+### The evolution story of cryptocurrency in the last 5 years
 
 The first cryptocurrency, Bitcoin, was founded in 2009 and has gone through a very short time in the economic market compared with stocks. But for Bitcoin itself, ten years is really a long time because of the fluctuation of the price and quick topic shifts about it. In 2015, people were interested in the investment potential of it and in 2016 and 2017, it attracted more companies for investigation. Also, the cryptocurrency companies were seeking cooperation with the government at that time. In 2017 and 2018, due to the crazy fluctuation of the Bitcoin price, people had more doubts about its security of it. Since then the issue of security and the urgent need to have more stability led to more cryptocurrencies based on different technologies popping up. As for the speaker occupation, it’s natural for businessmen to discuss cryptocurrency, but politicians have the second quotation numbers in the dataset. It reveals the fact that it attracted more attention from society and also had more influence overall. Considering the short history of cryptocurrency, we would be really amazed by the influence. 
 
