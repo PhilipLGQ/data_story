@@ -17,7 +17,7 @@ A cryptocurrency, crypto-currency, or crypto is a collection of binary data whic
 ## Quotations per Year and Topics Shifts 
 #### What topics about Bitcoin are popular in Quotebank, what contents are included in each topic? & How does the trend of topics about Bitcoin change over time?
 
-[History of Cryptocurrency](#History of Cryptocurrency)
+[History of Cryptocurrency](#https://github.com/xianjiedai/data_story/blob/main/index.md#history-of-cryptocurrency)
 From the quotation dataset, we find the distribution of quotations about crypto currency during different time periods.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/price_quote.html"></iframe>
