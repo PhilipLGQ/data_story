@@ -132,8 +132,8 @@ We further look into the correlation over different time periods.
 
 | Period | P Value | r |
 | :------: |:---: | :---: |
-| 2015 | p > 0.05 | not correlated |
-| 2016 | p > 0.05 | not correlated |
+| 01/2015 - 12/2015 | p > 0.05 | not correlated |
+| 01/2016 - 12/2016 | p > 0.05 | not correlated |
 | 01/2017 - 09/2017 | p < 0.05 | -0.703 |
 | 10/2017 - 03/2018 | p < 0.05 | 0.563 |
 | 04/2018 - 12/2018 | p < 0.05 | -0.239 |
@@ -153,21 +153,17 @@ Finally, we are curious about whether there is correlation between Bitcoin price
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/price_compound.html"></iframe>
 
-First, we present different scores and bitcoin prices over time. The y axis on the left (Close) is the bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general person test shows us the … score actually has a weak positive correlation (r=, p=) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
+First, we present different scores and bitcoin prices over time. The y axis on the left (Close) is the bitcoin price at the end of each day. Although it may seem that they have no correlation from the line plot, the general person test shows us the general sentiment actually has a weak positive correlation (r=0.10330391252755933, p=2.1020253146484618e-05) with the fluctuation of Bitcoin price. By checking the line plot, we speculate that this correlation comes mainly from the event after 2017. Now we conduct separated correlation testing within different time periods to test our hypothesis.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Period | P Value | r |
+| :------: |:---: | :---: |
+| 01/2015 - 12/2015 | p > 0.05 | not correlated |
+| 01/2016 - 12/2016 | p > 0.05 | not correlated |
+| 01/2017 - 09/2017 | p < 0.05 | 0.442 |
+| 10/2017 - 03/2018 | p < 0.05 | 0.268 |
+| 04/2018 - 12/2018 | p < 0.05 | 0.168 |
+| 01/2019 - 12/2019 | p < 0.05 | 0.260 |
+| 01/2020 - 03/2020 | p > 0.05 | not correlated |
 
 We make a summarization in the below:
 - The result of general analysis on compound, positive, and negative sentiment scores reveals that crypto-related quotations' sentiment does have correlation with the Bitcoin price. However, the pearson r for all four sentiment scores are relatively small, which means the correlations are not strong. 
