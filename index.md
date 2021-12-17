@@ -211,6 +211,24 @@ Topic 2: Although politicians are concerned about the risk of cryptocurrencies a
 
 **Businesspeople**
 
+```diff
+Topic 0: Government anouncements on accepting cryptocurrencies for payment has shown its adoption to cryptocurrencies.
+```
+
+>_"Cryptocurrencies are becoming increasingly accepted as forms of payment for many transactions across the state, including by government entities. the seminole county tax collector announced that the office will accept bitcoin as payment for property taxes, identification cards and license plates"_  _**--Jimmy Patronis, Florida Chief Financial Officer**_
+
+```diff
+Topic 1: Some countries are funding digital currency researches and making investments on cryptocurrencies.
+```
+
+>_"The £ 10m in funding for digital currency research demonstrates that this government is serious about making the uk an attractive destination for cryptocurrency entrepreneurs and investment. no other government has made such a positive overture to bitcoin"_  _**--Tom Robinson, a board member of the UK Digital Currency Association**_
+
+```diff
+Topic 2: Although politicians are concerned about the risk of cryptocurrencies as a "bubble", they attaches great importance to the underneath blockchain technology.
+```
+
+>_"Blockchain technology could change our world more than people imagine. bitcoin, however, could be a bubble"_  _**--Jack Ma, leader of Multinational technology conglomerate Alibaba Group**_
+
 **Compound scores** of businessmen and politicians tell us that the general attitude towards cryptocurrency is **decreasing**. 2015 is the most **optimistic** year for businessmen, probably because there was potential commercial interest at the very beginning of cryptocurrency. Afterward, between 2016-2018, businessmen started to **doubt** the advantages of cryptocurrency. But the sentiment changes are rather flat during the huge wave of the cryptocurrency price fluctuation. However, in 2019, businessmen were again **positive** about cryptocurrency with a large increase in the compound score but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen **lost their interest** again and become more neutral.
 
 As for the politician, the general attitude is more neutral and flat compared with businessmen, partially because the cryptocurrency is not issued by any national institution. From topic analysis, we found that politician's quotations are highly associated with the actions taken by the government, they are more sided with the government and rarely express their own views.
