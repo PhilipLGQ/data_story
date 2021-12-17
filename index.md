@@ -126,7 +126,7 @@ This figure describes the quotation numbers and the fluctuation of Bitcoin price
 
 From the above line plots, we would initially speculate that the number of quotations may correlate with the fluctuation of Bitcoin price in a general sense but especially in the period around 2017 and 2018. Around the beginning of 2018, the quotation underwent a vast boost and this trend matches perfectly well with the bitcoin price peak around that time.
 
-If we run a Pearson test, we have a p value (1.70e-23) which is far smaller than 0.05, meaning the that Bitcoin price and 14-day rolling mean of # quotations do positively correlate with each other, with a small correlation r = 0.24. Based on this fact, we will find out the period which gives the largest correlation |r| with p << 0.05.
+If we run a Pearson test, we have a p value (1.70e-23) which is far smaller than 0.05, meaning the that Bitcoin price and 14-day rolling mean of # quotations do positively correlate with each other, with a small correlation r = 0.24. Based on this fact, we will find out the period which gives the largest correlation abs(r) with p << 0.05.
 
 We further look into the correlation over different time periods.
 
