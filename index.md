@@ -155,7 +155,7 @@ Then let's take a closer look at different periods and try to figure out whether
     <img src="web_img/time_comp.png" />
 </div>
 
-To save space, we use capital letter "A" to "G" to represent different periods.
+To save space, we use capital letters "A" to "G" to represent different periods.
 
 | Period | Letter |
 | :------: |:---: | 
