@@ -87,10 +87,6 @@ Then let's take a closer look at different periods and try to figure out whether
 
 - From neutral score stats, we can see that the percentage of neutral quotations fluctuates among different periods, lowest in 2016 and highest in the event period. Combining the former analysis, quotations are becoming more neutral throughout the years (generally rising mean and the quantiles), and shows a polarized sentiment pattern (lowest neutral score in the event period, and increasing proportion of very biased (neutral score < 0.4) quotations).
 
-(Examples)
-
-We pick up extreme attitudes for the analysis. For the  
-
 ## Speaker Portrait
 #### Who talk about cryptocurrency the most? What are their attitudes towards it?
 
