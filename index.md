@@ -28,21 +28,34 @@ Notice that there is a huge peak around the beginning of 2018. We paid additiona
 
 Since there are lots of discussions about the crypto currency in the past five years, we are wondering how topics about cryptocurrency change over time? We summarize the most popular topics over different periods. 
 
-- #### Topic of 2015
+- **Topic of 2015**
+>Topic: Bitcoin is a new blockchain technology that revolutionise how payments are made by money.
 _quotation_
->California almond growers are once again being stung by a shortage of honeybees
 
-- #### Topic of 2016
+- **Topic of 2016**
+>Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
+>Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
 _quotation_
-- #### Topic of 2017 (Jan. 2017 - Sep. 2017)
+
+- **Topic of 2017 (Jan. 2017 - Sep. 2017)**
+>Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 _quotation_
-- #### Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)
+
+- **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
+>Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 _quotation_
-- #### Topic of 2018 (Apr. 2018 - Dec. 2018)
+
+- **Topic of 2018 (Apr. 2018 - Dec. 2018)**
+>Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 _quotation_
-- #### Topic of 2019
+
+- **Topic of 2019**
+>Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 _quotation_
-- #### Topic of 2020 (Jan. 2020 - )
+
+- **Topic of 2020 (Jan. 2020 - )**
+>Topic 0 is about safety-oriented asset allocation when facing the crisis, where people are seeking safe-havens (e.g. gold) for their assets, while bitcoin is considered a risk asset.
+>Topic 1 is about the unexpected rise and continued high bitcoin price sparked the discussion to the potentials of bitcoin as a safe-haven assets.
 _quotation_
 
 From the result, we can see that the topic shifts significantly over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
