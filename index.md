@@ -47,7 +47,7 @@ _"china's central bank also is actively preparing to issue its digital currency,
 _"toyota research institute supports the enterprise ethereum alliance and its members in promoting common standards and tools to accelerate the adoption of this technology and the potential benefits for toyota's customers"_
 
 - **Topic of 2017 & 2018 (Oct. 2017 - Mar. 2018)**
->Topic 0 is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
+>Topic is about potential risks, such as price volatility, of investing in Bitcoin or any other cryptocurrency, because Bitcoin neither has any intrinsic value nor being backed by any kind of assets, which is why some people consider Bitcoin as a "bubble" or "Ponzi scheme". Investors were making speculative investments in Bitcoin without fully understand its value and potential risks, which triggered the "bubble burst".
 
 _"virtual currencies (vcs) don't have any intrinsic value and are not backed by any kind of assets. the price of bitcoin and other vcs, therefore, is entirely a matter of mere speculation resulting in spurt and volatility in their prices. there is a real and heightened risk of investment bubble of the type seen in ponzi schemes which can result in sudden and prolonged crash exposing investors, especially retail consumers losing their hard-earned money. consumers need to be alert and extremely cautious as to avoid getting trapped in such ponzi schemes,"_
 
