@@ -33,7 +33,7 @@ Since there are lots of discussions about the crypto currency in the past five y
 _quotation_
 
 - **Topic of 2016**
->Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.
+>Topic 0: Smart contract is the advantage of Ethereum against Bitcoin despite they are all using blockchain technology, but Bitcoin is more secure than Ethereum.<
 >Topic 1: Bitcoin companies are look forward for financial institutions to embrace bitcoin, whereas central banks are interested in developing their own digital money.
 _quotation_
 
