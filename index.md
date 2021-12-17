@@ -134,7 +134,7 @@ Then let's take a closer look at different periods and try to figure out whether
 ## Speaker Portrait
 #### Who talk about cryptocurrency the most? What are their attitudes towards it?
 
-We divide people into different occupations and make an analysis based on this division. There are people with more than 300 hundred occupations discussing crypto. We list the top **4** occupations and plot the distributions in the order of total quotation numbers.
+We divide people into different occupations and make an analysis based on this division. There are people with more than _300_ hundred occupations discussing crypto. We list the top _**4**_ occupations and plot the distributions in the order of total quotation numbers.
 
 <style>
 table {
