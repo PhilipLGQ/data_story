@@ -53,7 +53,7 @@ Topic 1: Bitcoin companies are look forward for financial institutions to embrac
 **Topic of 2017 (Jan. 2017 - Sep. 2017)**
 
 ```diff
-Topic: The imvolvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
+Topic: The involvement of enterprises contributes to prosperity of Bitcoin and Ethereum community
 ```
 
 >_"We're honored to be able to contribute our pbft implementation to j.p. morgan's industry-leading quorum platform. having financial institutions as our primary customers meant we had to design from day one with their requirements in mind. j.p. morgan shares many of these requirements and recognized the value of adding an enterprise-grade pbft implementation to their ethereum-based platform"_  _--**Alex Liu, CEO of AMIS**_
@@ -82,6 +82,8 @@ Topic 1 is about "security" issues. Security refers to a share of ownership in a
 
 **Topic of 2019**
 
+_(In 2019, we haven't found any new topics from the quotations, but there seems to be an enduring interest in "bitcoin" and "ethereum", which makes us curious about the content of Bitcoin/Ethereumn related quotes.)_
+
 ```diff
 Topic 0 is about bitcoin, to be more specific, its market aspects, such as the price and value of Bitcoin.
 ```
@@ -89,8 +91,6 @@ Topic 0 is about bitcoin, to be more specific, its market aspects, such as the p
 ```diff
 Topic 1 is about Ether. People are more interested in the technical level, e.g. the blockchain and smart contract technology.
 ```
-
-_(In 2019, we haven't found any new topics from the quotations, but there seems to be an enduring interest in "bitcoin" and "ethereum", which makes us curious about the content of Bitcoin/Ethereumn related quotes.)_
 
 **Topic of 2020 (Jan. 2020 - )**
 
@@ -106,7 +106,7 @@ Topic 1 is about the unexpected rise and continued high bitcoin price sparked th
 
 >_"Gold rose and stocks fell initially, but traders soon relaxed, so stocks recovered and gold fell. bitcoin stayed high because its rise is not iran-related"_  _--**Glen Goodman, Cryptocurrency trader and author**_
 
-From the result, we can see that the topic shifts over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 
+From the result, we can see that the topic shifts over different years and we can generally observe how crypto evolves during the past five years. In 2015, Bitcoins started to pop up and people were realizing the value of Bitcoin in the realm of payment methods. It demonstrates the very beginning of blockchain technology, especially Bitcoin, in the public realm. In 2016, more cryptos were coming into the market and economic system more deeply, including Ethereum, also one of the new cryptos and the hottest one in 2016. Etheruem received more discussions due to a new kind of blockchain technology used for it and it shows right after the beginning of Bitcoin, the development in blockchain technology developed very fast within one year. At the same time, crypto companies were urged to expand the influence of crypto by looking for financial institutions to support them. Also from the topic, we can observe there are interest conflicts between banks and crypto companies. 2020 is a special year because of the coronavirus pandemic and geopolitical uncertainties, which is also reflected in this year's quotations.
 
 
 ## Like it? Or hate it?
@@ -188,9 +188,34 @@ We are interested in the analysis within different occupations—different persp
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="110%" height="600" src="plot/occu_compare.html"></iframe>
 
+According to the relevant words and the representative quotations spoken by businesspeople and politicians, we have the following findings that are high associated with the detected topics:
+
+**Politacians**
+
+```diff
+Topic 0: Government anouncements on accepting cryptocurrencies for payment has shown its adoption to crypto currencies.
+```
+
+>_"Cryptocurrencies are becoming increasingly accepted as forms of payment for many transactions across the state, including by government entities. the seminole county tax collector announced that the office will accept bitcoin as payment for property taxes, identification cards and license plates"_  _--**Jimmy Patronis, Florida Chief Financial Officer**_
+
+```diff
+Topic 1: Some countries are funding digital currency researches and making investments on crypto currencies.
+```
+
+>_"The £ 10m in funding for digital currency research demonstrates that this government is serious about making the uk an attractive destination for cryptocurrency entrepreneurs and investment. no other government has made such a positive overture to bitcoin"_  _--**Tom Robinson, a board member of the UK Digital Currency Association**_
+
+```diff
+Topic 2: Although politicians are concerned about the risk of cryptocurrencies as a "bubble", they attaches great importance to the underneath blockchain technology.
+```
+
+>_"Blockchain technology could change our world more than people imagine. bitcoin, however, could be a bubble"_  _--**Jack Ma, leader of Multinational technology conglomerate Alibaba Group**
+
+
+**Businesspeople**
+
 **Compound scores** of businessmen and politicians tell us that the general attitude towards crypto is **decreasing**. 2015 is the most **optimistic** year for businessmen, probably because there was potential commercial interest at the very beginning of crypto. Afterward, between 2016-2018, businessmen started to **doubt** the advantages of cryptocurrency. But the sentiment changes are rather flat during the huge wave of the crypto price fluctuation. However, in 2019, businessmen were again **positive** about crypto with a large increase in the compound score but still didn’t exceed the optimistic attitude in 2015. Finally, in 2020, businessmen **lost their interest** again and become more neutral.
 
-As for the politician, the general attitude is more neutral and flat compared with businessmen, partially because the crypto is not issued by any national institution.
+As for the politician, the general attitude is more neutral and flat compared with businessmen, partially because the crypto is not issued by any national institution. From topic analysis, we found that politician's quotations are highly associated with the actions taken by the government, they are more sided with the government and rarely express their own views.
 
 
 ## Combined analysis of quotation numbers with Bitcoin Price
