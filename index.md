@@ -108,7 +108,7 @@ We are interested in the analysis within different occupations—how do perspect
 ## Combined analysis of quotation numbers with Bitcoin Price
 #### Who will talk about cryptocurrency? What’s their sentiment towards it?
 
-The Bitcoin price can be extracted from …. We wanna know if there is a correlation between quotation numbers with the Bitcoin price.
+The Bitcoin price can be extracted from [CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/historical-data/). We wanna know if there is a correlation between quotation numbers with the Bitcoin price.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="plot/price_quote.html"></iframe>
 
